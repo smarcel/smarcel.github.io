@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://sebastienmarcel.com/Test/Blog</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet.</description>
+    <item>
+      <title>Panne du van</title>
+      <link>http://sebastienmarcel.com/Test/Blog/Entrees/2018/6/8_Entree_1.html</link>
+      <guid isPermaLink="false">3e5dda81-8a3b-4497-a352-6f552f460e95</guid>
+      <pubDate>Fri, 8 Jun 2018 19:36:52 +0200</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://sebastienmarcel.com/Test/Blog/Entrees/2018/6/8_Entree_1.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Panne du van</title>
+      <link>http://sebastienmarcel.com/Test/Blog/Entrees/2018/6/8_Panne_du_van.html</link>
+      <guid isPermaLink="false">3021fb96-ac03-477a-8bba-a9fe9c611c22</guid>
+      <pubDate>Fri, 8 Jun 2018 19:34:54 +0200</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://sebastienmarcel.com/Test/Blog/Entrees/2018/6/8_Panne_du_van.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>http://sebastienmarcel.com/Test/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

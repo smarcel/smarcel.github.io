@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Mon expédition</title>
+    <link>http://sebastienmarcel.com/Test/Photos.html</link>
+    <description>Lorem ipsum dolor sit amet, ligula suspendisse nulla pretium, rhoncus tempor placerat accumsan taciti.</description>
+    <item>
+      <title>Quelqu’un d’autre conduit</title>
+      <link>http://sebastienmarcel.com/Test/Photos.html#0</link>
+      <guid isPermaLink="false">a78f070c-0c57-48fc-bb0b-3775542afe7d</guid>
+      <enclosure url="http://sebastienmarcel.com/Test/Photos_files/Media/IMG_0230_2_A/IMG_0230_2_A.jpg" length="59611" type="image/jpeg"/>
+      <iphoto:thumbnail>http://sebastienmarcel.com/Test/Photos_files/Media/IMG_0230_2_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://sebastienmarcel.com/Test/Photos_files/Media/IMG_0230_2_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Quelqu’un d’autre conduit&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Essai de raccourci</title>
+      <link>http://sebastienmarcel.com/Test/Photos.html#1</link>
+      <guid isPermaLink="false">548f6a42-2e47-4ce2-88ff-e1a80c69890c</guid>
+      <enclosure url="http://sebastienmarcel.com/Test/Photos_files/Media/DSC_32_A/DSC_32_A.jpg" length="59602" type="image/jpeg"/>
+      <iphoto:thumbnail>http://sebastienmarcel.com/Test/Photos_files/Media/DSC_32_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://sebastienmarcel.com/Test/Photos_files/Media/DSC_32_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Essai de raccourci&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Les suspects habituels</title>
+      <link>http://sebastienmarcel.com/Test/Photos.html#2</link>
+      <guid isPermaLink="false">c171b639-7485-4580-9de5-c775daaeef86</guid>
+      <enclosure url="http://sebastienmarcel.com/Test/Photos_files/Media/IMG_2171.RV_A/IMG_2171.RV_A.jpg" length="71483" type="image/jpeg"/>
+      <iphoto:thumbnail>http://sebastienmarcel.com/Test/Photos_files/Media/IMG_2171.RV_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://sebastienmarcel.com/Test/Photos_files/Media/IMG_2171.RV_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Les suspects habituels&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>On est vraiment perdus ?</title>
+      <link>http://sebastienmarcel.com/Test/Photos.html#3</link>
+      <guid isPermaLink="false">59610f71-5494-4e27-887e-bfcf1cae70e6</guid>
+      <enclosure url="http://sebastienmarcel.com/Test/Photos_files/Media/IMG_154_A/IMG_154_A.jpg" length="82364" type="image/jpeg"/>
+      <iphoto:thumbnail>http://sebastienmarcel.com/Test/Photos_files/Media/IMG_154_A/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://sebastienmarcel.com/Test/Photos_files/Media/IMG_154_A/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;On est vraiment perdus ?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

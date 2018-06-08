@@ -1,0 +1,284 @@
+.style {
+    padding: 85px;
+}
+.style_SkipStroke_2 {
+    background: transparent url(left_page_tile-2.png) repeat scroll top left;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent url(left_page_tile-2_1.png) repeat scroll top left;
+    opacity: 1.00;
+}
+.style_SkipStrokeSkipFillSkipOpacity {
+}
+.style_SkipStrokeSkipFillSkipOpacity_1 {
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_700_342 {
+    position: relative;
+}
+.Body {
+    color: rgb(115, 94, 121);
+    font-family: 'CourierNewPS-BoldMT', 'Courier New', monospace;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Date {
+    color: rgb(117, 64, 60);
+    font-family: 'CourierNewPS-BoldMT', 'Courier New', monospace;
+    font-size: 16px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Header {
+    color: rgb(228, 211, 183);
+    font-family: 'CourierNewPS-BoldMT', 'Courier New', monospace;
+    font-size: 36px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 41px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-shadow: 0px 0px 16px rgb(0, 0, 0);
+    text-transform: none;
+}
+.Next {
+    color: rgb(115, 94, 121);
+    font-family: 'CourierNewPS-BoldMT', 'Courier New', monospace;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Normal {
+    padding: 4px;
+}
+.Normal_External_533_26 {
+    position: relative;
+}
+.Normal_External_700_342 {
+    position: relative;
+}
+.Previous {
+    color: rgb(115, 94, 121);
+    font-family: 'CourierNewPS-BoldMT', 'Courier New', monospace;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Title {
+    color: rgb(70, 74, 98);
+    font-family: 'Handwriting-Dakota', 'Handwriting - Dakota';
+    font-size: 24px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 35px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.graphic_generic_body_textbox_style_default_SkipStroke {
+    background: transparent url(left_page_tile-2.png) repeat scroll top left;
+    opacity: 1.00;
+}
+.graphic_generic_datefield_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_generic_header_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
+}
+.graphic_generic_title_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
+}
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_shape_layout_style_default {
+    padding: 4px;
+}
+.graphic_shape_layout_style_default_External_700_291 {
+    position: relative;
+}
+.graphic_shape_style_default_SkipStroke {
+    background: rgb(204, 192, 174);
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_250_38 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: rgb(32, 15, 10);
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(185, 106, 60);
+    text-decoration: none;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a:hover {
+    color: rgb(185, 106, 60);
+    text-decoration: none;
+}
+#widget0 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: none;
+}
+#widget0 a {
+    color: rgb(32, 15, 10);
+    text-decoration: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}

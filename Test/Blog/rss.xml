@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Mon blog</title>
+    <link>http://sebastienmarcel.com/Test/Blog/Blog.html</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet.</description>
+    <generator>iWeb 3.0.4</generator>
+    <image>
+      <url>http://sebastienmarcel.com/Test/Blog/Blog_files/blog_photo.jpg</url>
+      <title>Mon blog</title>
+      <link>http://sebastienmarcel.com/Test/Blog/Blog.html</link>
+    </image>
+    <item>
+      <title>Panne du van</title>
+      <link>http://sebastienmarcel.com/Test/Blog/Entrees/2018/6/8_Entree_1.html</link>
+      <guid isPermaLink="false">3e5dda81-8a3b-4497-a352-6f552f460e95</guid>
+      <pubDate>Fri, 8 Jun 2018 19:36:52 +0200</pubDate>
+      <description>&lt;a href=&quot;http://sebastienmarcel.com/Test/Blog/Entrees/2018/6/8_Entree_1_files/IMG_1219_3x4a.jpg&quot;&gt;&lt;img src=&quot;http://sebastienmarcel.com/Test/Blog/Media/object001_2.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:128px; height:96px;&quot;/&gt;&lt;/a&gt;Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci lorem ipsum.</description>
+      <enclosure url="http://sebastienmarcel.com/Test/Blog/Entrees/2018/6/8_Entree_1_files/IMG_1219_3x4a.jpg" length="44090" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Panne du van</title>
+      <link>http://sebastienmarcel.com/Test/Blog/Entrees/2018/6/8_Panne_du_van.html</link>
+      <guid isPermaLink="false">3021fb96-ac03-477a-8bba-a9fe9c611c22</guid>
+      <pubDate>Fri, 8 Jun 2018 19:34:54 +0200</pubDate>
+      <description>&lt;a href=&quot;http://sebastienmarcel.com/Test/Blog/Entrees/2018/6/8_Panne_du_van_files/IMG_1219_3x4a.jpg&quot;&gt;&lt;img src=&quot;http://sebastienmarcel.com/Test/Blog/Media/object001_3.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:128px; height:96px;&quot;/&gt;&lt;/a&gt;Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci lorem ipsum.</description>
+      <enclosure url="http://sebastienmarcel.com/Test/Blog/Entrees/2018/6/8_Panne_du_van_files/IMG_1219_3x4a.jpg" length="44090" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

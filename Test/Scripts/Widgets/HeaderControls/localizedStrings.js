@@ -1,0 +1,2 @@
+
+(function(){var strings={};strings['Subscribe']='S’abonner';strings['Back to Index']='Retour à l’index';strings['Add Photo']='Ajouter une photo';strings['Play Slideshow']='Lancer le diaporama';RegisterWidgetStrings("com-apple-iweb-widget-headercontrols",strings);})();
