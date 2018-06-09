@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:26 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>New voice spoofing database</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The Biometric group at Idiap Research Institute is releasing AVspoof, a free spoofing database for automatic speaker verification (ASV).&#xD;&#xD;AVspoof is intended to provide stable, non-biased spoofing attacks for researchers to test both their ASV systems and anti-spoofing algorithms.&#xA0;&#xD;Ten attacks are created based on newly acquired audio recordings.&#xA0;&#xD;The database includes 44 speakers,&#xA0;each participating in four sessions with different environmental conditions and setups.&#xA0;&#xD;After data acquisition, the attacks, namely replay, voice conversion and speech synthesis attacks were generated.&#xD;&#xD;More details can be found at the Idiap DDP:&#xD;&#xA0;&lt;a href="https://www.idiap.ch/dataset/avspoof"&gt;https://www.idiap.ch/dataset/avspoof&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday 16 July 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New realistic spoofing database</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_New_realistic_spoofing_database_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

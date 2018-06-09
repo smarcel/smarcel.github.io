@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:22 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Matthias Vanoni - BioWatch CEO</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Matthias Vanoni joined the &lt;a href="perma://BLPageReference/7D406E27-423E-4685-8800-C4C4791B5191"&gt;biometrics group at Idiap&lt;/a&gt; a bit more than a year ago to work on vein biometrics and took the brave decision to setup a start-up company ( BioWatch ) to develop a wearable biometrics solution.&#xD;&#xD;Congratulations Matthias -- all the best to BioWatch ( &lt;a href="http://biowatch.ch"&gt;http://biowatch.ch&lt;/a&gt; ) !&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 8 avril 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Matthias Vanoni CEO of BioWatch</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Matthias_Vanoni_CEO_of_BioWatch_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

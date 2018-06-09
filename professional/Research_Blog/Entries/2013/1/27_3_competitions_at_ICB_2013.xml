@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:07 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Competitions 2013</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Idiap is organizing 3 new competitions in conjunction with The 6th IAPR/IEEE International Conference on Biometrics (&lt;a href="http://atvs.ii.uam.es/icb2013/"&gt;http://atvs.ii.uam.es/icb2013/&lt;/a&gt;) June 4-7, 2013 Madrid SPAIN.&#xD;&#xD;&lt;b&gt;The 2nd competition on counter measures to 2D facial spoofing attacks:&#xD;&lt;/b&gt;&#xD;Following the&lt;a href="http://www.tabularasa-euproject.org/evaluations/ijcb-2011-competition-on-counter-measures-to-2d-facial-spoofing-attacks"&gt; first competition on counter measures to 2D spoofing attacks&lt;/a&gt; consisting of printed photographs, Idiap organizes&#xA0;a second competition for comparison of the performance of spoofing counter measures, this time on a more diverse set of spoofing attacks.&#xD;&#xD;More information at: &lt;a href="http://www.tabularasa-euproject.org/evaluations/icb-2013-face-anti-spoofing"&gt;http://www.tabularasa-euproject.org/evaluations/icb-2013-face-anti-spoofing&lt;/a&gt;&#xD;&#xD;&lt;b&gt;The 2nd competition on face recognition in mobile environment using the MOBIO database:&#xD;&lt;/b&gt;More information at: &lt;a href="http://www.beat-eu.org/evaluations/icb-2013-face-recognition-mobio"&gt;http://www.beat-eu.org/evaluations/icb-2013-face-recognition-mobio&lt;/a&gt;&#xD;&#xD;&lt;b&gt;The 1st competition on speaker recognition in mobile environment using the MOBIO database&#xD;&lt;/b&gt;More information at: &lt;a href="http://www.beat-eu.org/evaluations/icb-2013-speaker-recognition-mobio"&gt;http://www.beat-eu.org/evaluations/icb-2013-speaker-recognition-mobio&lt;/a&gt;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>dimanche, 27 janvier 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>3 competitions at ICB 2013</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="27_3_competitions_at_ICB_2013_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

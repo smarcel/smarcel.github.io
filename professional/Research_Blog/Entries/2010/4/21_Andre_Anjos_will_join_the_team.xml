@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Andr&#xE9; Anjos will join the team</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>In June 2010, Andr&#xE9; Anjos will join the &lt;a href="perma://BLPageReference/7D406E27-423E-4685-8800-C4C4791B5191"&gt;biometrics group at Idiap&lt;/a&gt; to work on the &#x201C;Anti-Spoofing in Face Recognition&#x201D; project.&#xD;&#xD;Welcome Andr&#xE9; !&#xD;&#xD;&lt;i&gt;Andr&#xE9; Anjos started studying electronics and computers in 1994, when he joined the Electronics Engineering School (&lt;/i&gt;&lt;i&gt;&lt;a href="http://www.del.ufrj.br/"&gt;http://www.del.ufrj.br&lt;/a&gt;&lt;/i&gt;&lt;i&gt;) at the Federal University of Rio de Janeiro (&lt;/i&gt;&lt;i&gt;&lt;a href="http://www.ufrj.br/"&gt;http://www.ufrj.br&lt;/a&gt;&lt;/i&gt;&lt;i&gt;). He obtained a Ph.D. in Signal Processing in 2006 with a work on High-Energy Physics Particle Detection using Neural Networks. In 2004, he joins CERN (&lt;/i&gt;&lt;i&gt;&lt;a href="http://www.cern.ch/"&gt;http://www.cern.ch&lt;/a&gt;&lt;/i&gt;&lt;i&gt;), Switzerland to work on the development and construction of the Trigger and Data Acquisition systems of the ATLAS Experiment. His domains of interest are pattern recognition and applied computing.&#xD;&#xD;You can follow this link to Andr&#xE9;'s homepage (&lt;/i&gt;&lt;i&gt;&lt;a href="http://andreanjos.org/"&gt;http://andreanjos.org&lt;/a&gt;&lt;/i&gt;&lt;i&gt;) for more information, his CV and a complete list of publications.&lt;/i&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 21 avril 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Andr&#xE9; Anjos will join the team</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Andre_Anjos_will_join_the_team_files/shapeimage_2.png" left="0px" top="0px" width="185px" height="209px"/>
+</content>

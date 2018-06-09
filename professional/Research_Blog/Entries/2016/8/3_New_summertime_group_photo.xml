@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:33 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>New group photo</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>This is summertime and the biometric group changed in one year.&#xD;&#xD;For left to right: Tiago de Freitas Pereira, Olegs Nikisins, Hannah Muckenhirn, Sushil Bhattacharjee, Teodors Eglitis (down), S&#xE9;bastien Marcel, Pavel Korshunov (down), Guillaume Heusch, Alain Komaty, Amir Mohammadi and Andr&#xE9; Anjos.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday 3 August 2016</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New summertime group photo</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_New_summertime_group_photo_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

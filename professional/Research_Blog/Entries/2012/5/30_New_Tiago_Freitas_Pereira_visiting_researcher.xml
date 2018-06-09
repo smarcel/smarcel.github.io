@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:00 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>New visiting researcher</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Tiago is Bachelor in Computer Science at Institute of Mathematics and Computer Science - University of S&#xE3;o Paulo (USP). As undergraduate scientific activities, he worked in a research project (&lt;a href="http://www2.nilc.icmc.usp.br/wiki/index.php/Principal"&gt;http://www2.nilc.icmc.usp.br/wiki/index.php/Principal&lt;/a&gt;) funded by FAPESP working with text simplification to brazilian portuguese. In 2010 he joined at CPqD and started to work with face recognition in BioModal project. In 2011 he started his masters project at the University of Campinas (UNICAMP) working with spoof attacks in face authentication systems.&#xD;&#xD;During his stay, Tiago will work with us on the problem of spoofing attacks in face recognition and more particularly focusing on spatio-temporal techniques.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 30 mai 2012</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Tiago Freitas Pereira: new visiting researcher</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_New_Tiago_Freitas_Pereira_visiting_researcher_files/shapeimage_2.png" left="0px" top="0px" width="278px" height="275px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:32 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Patent on vein PAD</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Idiap published on Feb 18 2016 a PCT patent on biometric vein anti-spoofing (also called presentation attack detection) under the reference WO/2016/023582.&#xD;&#xD;(WO2016023582) &lt;a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016023582&amp;recNum=73&amp;docAn=EP2014067290&amp;queryString=&amp;maxRec=2797947"&gt;A METHOD OF DETECTING A FALSIFIED PRESENTATION TO A VASCULAR RECOGNITION SYSTEM&lt;/a&gt; &#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday 22 February 2016</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New patent on vein anti-spoofing (PAD)</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_New_patent_on_vein_anti-spoofing_%28PAD%29_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

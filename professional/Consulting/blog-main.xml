@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Consulting</title>
+    <link>http://smarcel.ch/professional/Consulting</link>
+    <description>As part of my duties, I am often contacted by companies for advices or consulting on image processing and pattern recognition but mainly on face recognition technologies.  </description>
+    <item>
+      <title>Face.com</title>
+      <link>http://smarcel.ch/professional/Consulting/Entries/2011/8/23_Face.com.html</link>
+      <guid isPermaLink="false">618a72ad-cb7f-4660-a2a8-a09cff120a86</guid>
+      <pubDate>Tue, 23 Aug 2011 08:58:11 +0200</pubDate>
+      <description>Face.com is a technology company that offer a platform for developers and publishers to automatically detect and recognize faces in photos using a free API.</description>
+      <iweb:image href="Media/object740.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Consulting/Entries/2011/8/23_Face.com.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>KeyLemon</title>
+      <link>http://smarcel.ch/professional/Consulting/Entries/2010/11/10_KeyLemon.html</link>
+      <guid isPermaLink="false">6a15f9cf-9907-4e3f-9d0e-6136163bc04e</guid>
+      <pubDate>Wed, 10 Nov 2010 19:09:57 +0100</pubDate>
+      <description>KeyLemon is a software company which offers computer access solutions based on face and speech recognition, for all internet users.&lt;br/&gt;&lt;br/&gt;KeyLemon ( &lt;a href="http://www.keylemon.com/"&gt;http://www.keylemon.com&lt;/a&gt;  ).</description>
+      <iweb:image href="Media/object492.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Consulting/Entries/2010/11/10_KeyLemon.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>BIOMETRY</title>
+      <link>http://smarcel.ch/professional/Consulting/Entries/2010/11/10_BIOMETRY.html</link>
+      <guid isPermaLink="false">310aa77f-ed42-416b-9772-cf1cd5118423</guid>
+      <pubDate>Wed, 10 Nov 2010 19:09:01 +0100</pubDate>
+      <description>BIOMETRY.com AG is a Swiss awards winning company offering innovative solutions and services that protect and secure personal identities and assets.&lt;br/&gt;&lt;br/&gt;BIOMETRY.com AG ( &lt;a href="http://www.biometry.com/"&gt;http://www.biometry.com&lt;/a&gt; ).</description>
+      <iweb:image href="Media/object493.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Consulting/Entries/2010/11/10_BIOMETRY.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Cinetis</title>
+      <link>http://smarcel.ch/professional/Consulting/Entries/2010/11/10_Cinetis.html</link>
+      <guid isPermaLink="false">d3d44cbf-8cdd-4aa8-8ab4-bb3054f3925f</guid>
+      <pubDate>Wed, 10 Nov 2010 19:07:05 +0100</pubDate>
+      <description>Cinetis SA is a Swiss multimedia company specialised in the development and production of film scanning solutions, including film scanner control software, databasing and postprocessing software.&lt;br/&gt;&lt;br/&gt;Cinetis SA ( &lt;a href="http://www.cinetis.ch/"&gt;http://www.cinetis.ch&lt;/a&gt; ).</description>
+      <iweb:image href="Media/object743.png"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Consulting/Entries/2010/11/10_Cinetis.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Alsop Louie Partners</title>
+      <link>http://smarcel.ch/professional/Consulting/Entries/2010/11/10_Alsop_Louie_Partners.html</link>
+      <guid isPermaLink="false">941ed766-f9a2-492c-a75b-18136a745c3a</guid>
+      <pubDate>Wed, 10 Nov 2010 19:03:18 +0100</pubDate>
+      <description>Alsop Louie Partners is a partnership between Stewart Alsop and Gilman Louie designed to provide venture capital to the most promising entrepreneurs.&lt;br/&gt;&lt;br/&gt;Alsop Louie Partners ( &lt;a href="http://www.alsop-louie.com/"&gt;http://www.alsop-louie.com&lt;/a&gt; ).</description>
+      <iweb:image href="Media/object495.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Consulting/Entries/2010/11/10_Alsop_Louie_Partners.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Orange Labs</title>
+      <link>http://smarcel.ch/professional/Consulting/Entries/2010/11/10_Orange_Labs.html</link>
+      <guid isPermaLink="false">edc2a4f3-54ff-4a73-959b-627b9081b87e</guid>
+      <pubDate>Wed, 10 Nov 2010 18:58:53 +0100</pubDate>
+      <description>Orange Labs is the Research and Development division of the Orange group, formerly France Telecom R&amp;amp;D and &lt;a href="http://en.wikipedia.org/wiki/Centre_national_d'%C3%A9tudes_des_t%C3%A9l%C3%A9communications"&gt;CNET&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Orange Labs ( &lt;a href="http://www.orange.com/en_EN/innovation"&gt;http://www.orange.com/en_EN/innovation&lt;/a&gt; ).</description>
+      <iweb:image href="Media/object745.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Consulting/Entries/2010/11/10_Orange_Labs.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>http://smarcel.ch/professional/Consulting</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

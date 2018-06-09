@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:08 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Labs 1 and 2 available</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Fundamentals in Statistical Pattern Recognition&#xD;The first 2 labs of the course (&lt;a href="http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597304194&amp;ww_x_anneeAcad=2012-2013&amp;ww_i_section=192994568&amp;ww_i_niveau=&amp;ww_c_langue=en"&gt;EE-612&lt;/a&gt;) on statistical pattern recognition are available !&#xD;&#xD;Lab 1 is on Linear Regression and Polynomial Regression (using Gradient Descent) with hands-on in Python.&#xD;&#xD;Lab 2 is on (Linear and Polynomial) Logistic Regression (using Gradient Descent and L-BFGS minimization) with hands-on in Python and BOB.&#xD;&#xD;A special mention to &lt;a href="http://andreanjos.org"&gt;Andr&#xE9; Anjos&lt;/a&gt; for the labs in Python !&#xD;&#xD;The main page for the course overview, content and material is &lt;a href="perma://BLPageReference/6AC2AF6D-F5E2-4D30-AD4C-27AE9951244D"&gt;HERE&lt;/a&gt;.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>vendredi, 29 mars 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Labs 1+2 at EPFL on Statistical Pattern Recognition</richText>
+  </textBox>
+</content>

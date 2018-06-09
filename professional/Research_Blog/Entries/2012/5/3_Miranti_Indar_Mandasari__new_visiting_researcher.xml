@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:00 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>New visiting researcher</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Mira is a bachelor and master graduate in Physics Engineering from Bandung Institute of Technology, Indonesia. At the time when she was on college, she was involved in the voice comparison and speaker recognition task for real forensic cases. Her research area now is mostly about automatic speaker recognition system for forensic application. She has been doing various forensic based evaluations of the state-of-the-art speaker recognition systems, with the main interest in the calibration aspects of likelihood ratios from the output scores of the system. She is now pursuing her PhD degree from Radboud University Nijmegen, the Netherlands as one of the fellows of Bayesian biometrics for forensics (BBfor2) network under the funding by Marie-Curie initial training network (ITN) project. &#xD;&#xD;During her secondment at Idiap, she will work on some likelihood ratio calibration experiments on the scores from face recognition systems available at Idiap. The systems will be evaluated on various databases such as MOBIO and ScFace. </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>jeudi, 3 mai 2012</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Miranti Indar Mandasari: new visiting researcher</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Miranti_Indar_Mandasari__new_visiting_researcher_files/shapeimage_2.png" left="0px" top="0px" width="246px" height="275px"/>
+</content>

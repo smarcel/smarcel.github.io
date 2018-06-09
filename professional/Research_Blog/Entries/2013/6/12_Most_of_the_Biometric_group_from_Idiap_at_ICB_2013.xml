@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:13 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>The Idiap Biometric group at ICB</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Most of the team attended last week the International Conference on Biometrics in Madrid.&#xD;&#xD;From right to left (up): Nesli Erdogmus, Ivana Cingovska, Andr&#xE9; Anjos, S&#xE9;bastien Marcel, Manuel G&#xFC;nther, Elie El Khoury and Flavio Tarsetti (Engineering team).&#xD;From right to left (down): Jukka Maatta Komulainen (visiting researcher at Idiap in 2012) and Tiago de Freitas Pereira (visiting student in 2012).&#xD;&#xD;Sadly, Laurent El Shafey was not able to join us.&#xD;&lt;b&gt;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 12 juin 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Most of the Biometric group from Idiap at ICB 2013</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Most_of_the_Biometric_group_from_Idiap_at_ICB_2013_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8ED417F9-5D4A-4C60-8247-816C86E846FA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:21 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>EU FP5 COST 275</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;COST 275&#x2028;&#x201C;Biometrics-Based Recognition of People over the Internet&#x201D;&#x2028;&lt;/b&gt;&lt;b&gt;&lt;a href="http://www.cost.eu/COST_Actions/ict/275"&gt;http://www.cost.eu/COST_Actions/ict/275&lt;/a&gt;&lt;/b&gt;&lt;b&gt; &#xD;&lt;/b&gt;&#xD;Research on face detection using Local Binary Patterns and face recognition using Gaussian Mixture Models.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday 1 January 2002</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>COST 275 (2002-2005)</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_COST_275_%282002-2005%29_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

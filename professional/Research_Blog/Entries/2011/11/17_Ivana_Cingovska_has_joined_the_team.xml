@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:57 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Ivana Cingovska joined the team</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We are happy to welcome &lt;a href="perma://BLPageReference/EB003003-E5DD-4571-8403-B5DF75D1C4CB"&gt;Ivana Cingovska&lt;/a&gt; in the &lt;a href="perma://BLPageReference/7D406E27-423E-4685-8800-C4C4791B5191"&gt;biometrics group at Idiap&lt;/a&gt;.&#xD;&#xD;Ivana is a PhD student registered at the Doctoral School of EPFL and will be carrying her research on spoofing and anti-spoofing in face recognition at Idiap.&#xD;&lt;i&gt;&#xD;&#xD;&lt;/i&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>jeudi, 17 novembre 2011</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Ivana Cingovska has joined the team</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="17_Ivana_Cingovska_has_joined_the_team_files/shapeimage_2.png" left="0px" top="0px" width="223px" height="275px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Hasler Foundation grant</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The &lt;a href="http://www.haslerstiftung.ch"&gt;Hasler Foundation&lt;/a&gt; will be funding in 2011 the project &#x201C;Context Modelling for Object Detection&#x201D; (CONTEXT).&#xD;&#xD;&lt;i&gt;The goal of the CONTEXT project is to research, develop and evaluate novel face and facial feature detection methods. They are used by various applications in biometric recognition, video surveillance or human computer interaction. The most successful methods that have been proposed lately use boosting algorithms with a cascade architecture and features that are fast to compute. Still various challenges like multiple detections, false alarms and real-time constraints remain to be surpassed in a variety of scenarios.&#xD;&#xD;In this project we will investigate two methods: (1) an automatic method for clustering and pruning multiple detections and (2) a context-based model used for object localization. In the first method we propose to improve existing methods by following a more principled way, with less heuristics and better robustness to search parameters. The second method will consist of a greedy-based and geometric constrained model that uses the same contextual information to drive the face and facial feature detection. We intend to design the system as to be independent of the object and classifier type and to be robust to the search parameters.&#xD;&lt;/i&gt;&#xD;This project will support the work of &lt;a href="perma://BLPageReference/2AB95819-211C-4520-9D28-752E75B6A25D"&gt;Cosmin Atanasoaei&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 21 avril 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hasler Foundation grant for 2011</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_Hasler_Foundation_grant_for_2011_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

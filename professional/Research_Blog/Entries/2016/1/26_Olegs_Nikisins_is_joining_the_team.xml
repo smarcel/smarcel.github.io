@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:31 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Olegs Nikisins is joining the team</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Olegs Nikisins is joining the &lt;a href="perma://BLPageReference/7D406E27-423E-4685-8800-C4C4791B5191"&gt;biometrics group at Idiap&lt;/a&gt; in March to work on the BIOWAVE project.&#xD;&#xD;Welcome Olegs !&#xD;&#xD;Olegs Nikisins obtained his Ph.D. in Electrical Engineering from Riga Technical University &amp; Institute of Electronics and Computer Science (IECS) in 2013, where he  worked as a researcher (2007-2016, IECS, Riga, Latvia). His primary research and development experience is related to Computer Vision and Machine Learning techniques with application to biometrics (&lt;a href="http://bite.edi.lv"&gt;http://bite.edi.lv&lt;/a&gt;/) (face recognition, multi-modal biometrics, recognition of palm veins and ridges), medical imaging and other industry oriented tasks. &#xD;After receiving a PhD Olegs carried out a research in Aalborg University (AAU, Denmark) in the field of multi-modal face recognition. In AAU he collected a database of synchronized RGB, 3D and Thermal facial images and designed a three-modal face recognition system / algorithm. &#xD;Besides biometric-related research Olegs participated in various Computer Vision based projects: segmentation of blood vessels in medical scans of the lungs, recognition of traffic signs, real time recognition of playing cards, design of control system for manufacturing of electronic components.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday 26 January 2016</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Olegs Nikisins is joining the team</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Olegs_Nikisins_is_joining_the_team_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

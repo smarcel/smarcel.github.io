@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:15 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Matthias Vanoni joined the team</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Matthias Vanoni just joined the &lt;a href="perma://BLPageReference/7D406E27-423E-4685-8800-C4C4791B5191"&gt;biometrics group at Idiap&lt;/a&gt; to work on vascular recognition on the context of the project &lt;a href="http://www.beat-eu.org"&gt;BEAT&lt;/a&gt;.&#xD;&#xD;Welcome Matthias !&#xD;&#xD;Matthias Vanoni comes from Franche-Comt&#xE9; (France). He starts a PhD on Vascular Recognition. He is a former officer from the French Gendarmerie and obtained a master degree at the French Officer School Saint-Cyr. He is interested in biometrics and his master thesis was about modeling distortion in fingerprint images, under the supervision of Pr. Ross Arun at West Virginia University (USA). &#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>lundi, 12 ao&#xFB;t 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Matthias Vanoni joined the team</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Matthias_Vanoni_joined_the_team_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

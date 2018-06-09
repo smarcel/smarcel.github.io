@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:58 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Book Chapter</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I recently co-authored a book chapter on face recognition:&#xD;P.&#xA0;Zem&#x10D;&#xED;k, &lt;b&gt;S.&#xA0;Marcel&lt;/b&gt;, and J.&#xA0;Ml&#xED;ch. &lt;b&gt;Video processing and recognition&lt;/b&gt;. &#x2028;In S.&#xA0;Renals, H.&#xA0;Bourlard, J.&#xA0;Carletta, and A.&#xA0;Popescu-Belis, editors, &lt;i&gt;Multimodal Signal Processing: Human Interactions in Meetings&lt;/i&gt;, Chapter&#xA0;7. Cambridge University Press, 2012.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>lundi, 2 janvier 2012</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Book Chapter on Face Recognition</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Book_Chapter_on_Face_Recognition_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

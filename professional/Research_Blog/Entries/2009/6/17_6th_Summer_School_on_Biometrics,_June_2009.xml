@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:46 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Chris and S&#xE9;bastien had also the opportunity to attend the sixth Biometrics&#xA0;Summer School.&#xA0;This summer school was held between June 9th and June 13th.&#xA0;It provided&#xA0;a broad overview of Biometrics from multiple biometrics through to the specifics of Iris, Fingerprint, Speaker and Face recognition.&#xD;&#xD;It provided with the unique opportunity to talk with people such as Arun Ross, Fabio Roli, Alessandro Verri, Julian Fierrez, Massimo Tistarelli, Mark Nixon,&#xA0;John Mason and Jonathon Phillips. Chris had a long discussion with Jonathon Phillips regarding the NIST evaluations (mainly for face recognition) and the manner in which they define the protocols for these evaluations.&#xD;&#xD;Every presenter provided an interesting presentation. For Chris the presentation that stood out were by Alice O'Toole who examined and presented the results on how well humans perform face recognition. The presentation by Fabio Roli on multiple classifier fusion was also interesting. Overall it was an unique opportunity to meet and discuss with well know researchers in the field.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 17 juin 2009</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>6th Summer School on Biometrics, June 2009</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="17_6th_Summer_School_on_Biometrics,_June_2009_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

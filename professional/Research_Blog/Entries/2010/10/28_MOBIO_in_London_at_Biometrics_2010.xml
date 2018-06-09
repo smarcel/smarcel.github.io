@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:51 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>MOBIO at Biometrics 2010</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The MOBIO team was showing the Mobile Biometry demonstrators at a booth during the &lt;a href="http://www.biometrics2010.com"&gt;Biometric 2010 exhibition&lt;/a&gt; in London. Also we had the opportunity to present Mobile Biometry at the &lt;a href="http://www.biometrics2010.com/programme.htm"&gt;conference&lt;/a&gt; itself during a session on MOBIO featuring:&#xD;&lt;b&gt;Person authentication using face and voice on a mobile phone: From research to reality&lt;/b&gt;&#x2028;&lt;b&gt;&lt;a href="http://www.biometrics2010.com/bio_marcel.htm"&gt;S&#xE9;bastien Marcel&lt;/a&gt;&lt;/b&gt;, &lt;i&gt;Senior Researcher, Idiap Research Institute, FP7 MOBIO project coordinator, Switzerland&#xD;&lt;/i&gt;&lt;b&gt;&#xD;MOBIO: Technical challenges on mobile devices&lt;/b&gt;&#x2028;&lt;b&gt;&lt;a href="http://www.biometrics2010.com/bio_turtinen.htm"&gt;Markus Turtinen&lt;/a&gt;&lt;/b&gt;, &lt;i&gt;CEO, Visidon&#xD;&#xD;&lt;/i&gt;&lt;b&gt;Mobile biometry: Strengthening the weakest link &lt;/b&gt;&#x2028;&lt;b&gt;Jos&#xE9; Luis Huertas Fern&#xE1;ndez&lt;/b&gt;, &lt;i&gt;CEO, Mobbeel&lt;/i&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>jeudi, 28 octobre 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>MOBIO in London at Biometrics 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_MOBIO_in_London_at_Biometrics_2010_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

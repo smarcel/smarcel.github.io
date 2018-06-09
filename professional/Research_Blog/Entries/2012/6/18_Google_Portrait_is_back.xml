@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:01 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Google Portrait is back</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>After a couple of month offline, I am pleased to announce that the Google Portrait demo is back with a new design and a new voting mechanism. &#xD;&#xD;&lt;a href="https://www.idiap.ch/googleportrait/"&gt;https://www.idiap.ch/googleportrait/&lt;/a&gt;&#xD;&#xD;For security reason, it requires a login authentication. You just have to authenticate once and that&#x2019;s it.&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>lundi, 18 juin 2012</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Google Portrait is back</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Google_Portrait_is_back_files/shapeimage_2.png" left="0px" top="0px" width="322px" height="47px"/>
+</content>

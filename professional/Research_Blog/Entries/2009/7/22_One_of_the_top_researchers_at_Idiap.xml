@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:47 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Our Blog</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The Idiap Research Institute highlights S&#xE9;bastien Marcel as &#x201C;one of the top researchers at Idiap&#x201D; in its &lt;a href="http://www.idiap.ch/the-institute/annual-reports/annual-report-2008/at_download/file"&gt;2008 annual report&lt;/a&gt; (pages 26-27). The 2008 annual report emphasizes successful research projects and illustrates the project itinerary of MOBIO in an article entitled &lt;i&gt;&#x201C;From vision to innovation, from the tender to the grant proposal&#x201D;&lt;/i&gt; (pages 12-13).</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 22 juillet 2009</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&#x201C;One of the top researchers at Idiap&#x201D;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_One_of_the_top_researchers_at_Idiap_files/shapeimage_2.png" left="0px" top="0px" width="245px" height="275px"/>
+</content>

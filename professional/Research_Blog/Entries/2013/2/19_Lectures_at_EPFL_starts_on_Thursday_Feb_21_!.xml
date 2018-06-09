@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:08 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Lectures at EPFL starts on Thursday</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Fundamentals in Statistical Pattern Recognition&#xD;This course (&lt;a href="http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=1597304194&amp;ww_x_anneeAcad=2012-2013&amp;ww_i_section=192994568&amp;ww_i_niveau=&amp;ww_c_langue=en"&gt;EE-612&lt;/a&gt;) presents fundamental tools used in statistical pattern recognition ranging from the most basic (LLR, PCA, LDA, MLP, GMM, HMM) to the some more elaborated (ISV, JFA, PLDA). This course could serve as a pre-requisite for more advanced course on Machine Learning.&#xD;&#xD;The main page for the course overview, content and material is &lt;a href="perma://BLPageReference/6AC2AF6D-F5E2-4D30-AD4C-27AE9951244D"&gt;HERE&lt;/a&gt;.&#xD;The lecture 0 is also available &lt;a href="http://www.idiap.ch/~marcel/lectures/lectures/epfl2013/FSPR_lecture0.pdf"&gt;HERE&lt;/a&gt;.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mardi, 19 f&#xE9;vrier 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Lectures at EPFL starts on Thursday Feb 21 !</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Lectures_at_EPFL_starts_on_Thursday_Feb_21_%21_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:13 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>New paper on Spoofing with 3D masks</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A new paper accepted for publication at &lt;a href="http://fg-biosig.gi.de/biosig-2013.html"&gt;BioSig 2013&lt;/a&gt;:&#xD;&lt;i&gt;&#xD;N.&#xA0;Erdogmus and S.&#xA0;Marcel. &lt;/i&gt;&lt;b&gt;&lt;i&gt;Spoofing 2d face recognition systems with 3d masks&lt;/i&gt;&lt;/b&gt;&lt;i&gt;. In IEEE International Conference of the Biometrics Special Interest Group (BIOSIG), 2013.&#xD;&#xD;&lt;/i&gt;Congratulations to Nesli.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mardi, 16 juillet 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New paper on Spoofing with 3D masks at &lt;a href="http://fg-biosig.gi.de/biosig2013"&gt;BioSig 2013&lt;/a&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_New_paper_on_Spoofing_with_3D_masks_at_BioSig_2013_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

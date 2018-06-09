@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Demonstrations</title>
+    <link>http://smarcel.ch/professional/Demonstrations/Demonstrations.html</link>
+    <description>You will find here various demonstrations of my work.</description>
+    <item>
+      <title>Google Portrait</title>
+      <link>http://smarcel.ch/professional/Demonstrations/Pages/Google_Portrait.html</link>
+      <guid isPermaLink="false">a8f2ee78-a542-43d1-a368-59767fe6f8b4</guid>
+      <iphoto:thumbnail>http://smarcel.ch/professional/Demonstrations/Demonstrations_files/Google_Portrait.jpg</iphoto:thumbnail>
+      <iweb:contents>Photo</iweb:contents>
+      <iweb:is-movie>false</iweb:is-movie>
+    </item>
+    <item>
+      <title>Online Face Detection</title>
+      <link>http://smarcel.ch/professional/Demonstrations/Pages/Online_Face_Detection.html</link>
+      <guid isPermaLink="false">7af6ada6-652f-4d19-a4ae-c1882f777add</guid>
+      <iphoto:thumbnail>http://smarcel.ch/professional/Demonstrations/Demonstrations_files/Online_Face_Detection.jpg</iphoto:thumbnail>
+      <iweb:contents>Photo</iweb:contents>
+      <iweb:is-movie>false</iweb:is-movie>
+    </item>
+    <item>
+      <title>Frontal Face Detection</title>
+      <link>http://smarcel.ch/professional/Demonstrations/Pages/Frontal_Face_Detection.html</link>
+      <guid isPermaLink="false">057e33dd-1348-4f43-a199-ce7cb8c5ffe4</guid>
+      <iphoto:thumbnail>http://smarcel.ch/professional/Demonstrations/Demonstrations_files/Frontal_Face_Detection.jpg</iphoto:thumbnail>
+      <iweb:contents>Photo</iweb:contents>
+      <iweb:is-movie>false</iweb:is-movie>
+    </item>
+    <item>
+      <title>MultiView Face Detection</title>
+      <link>http://smarcel.ch/professional/Demonstrations/Pages/MultiView_Face_Detection.html</link>
+      <guid isPermaLink="false">09e8857a-024f-4300-8473-028ee48b9c5f</guid>
+      <iphoto:thumbnail>http://smarcel.ch/professional/Demonstrations/Demonstrations_files/MultiView_Face_Detection.jpg</iphoto:thumbnail>
+      <iweb:contents>Photo</iweb:contents>
+      <iweb:is-movie>false</iweb:is-movie>
+    </item>
+    <item>
+      <title>Face Detection in Videos</title>
+      <link>http://smarcel.ch/professional/Demonstrations/Pages/Face_Detection_in_Videos.html</link>
+      <guid isPermaLink="false">7e89bcfa-2d7d-48b1-9873-9ab3da86c219</guid>
+      <iphoto:thumbnail>http://smarcel.ch/professional/Demonstrations/Demonstrations_files/Face_Detection_in_Videos.jpg</iphoto:thumbnail>
+      <iweb:contents>1:20</iweb:contents>
+      <iweb:is-movie>true</iweb:is-movie>
+    </item>
+    <item>
+      <title>Biometric Login</title>
+      <link>http://smarcel.ch/professional/Demonstrations/Pages/Biometric_Login.html</link>
+      <guid isPermaLink="false">4285154f-229d-4268-8889-d2cc9c5a4e6e</guid>
+      <iphoto:thumbnail>http://smarcel.ch/professional/Demonstrations/Demonstrations_files/Biometric_Login.jpg</iphoto:thumbnail>
+      <iweb:contents>Photo</iweb:contents>
+      <iweb:is-movie>false</iweb:is-movie>
+    </item>
+    <item>
+      <title>Banana Screen</title>
+      <link>http://smarcel.ch/professional/Demonstrations/Pages/Banana_Screen.html</link>
+      <guid isPermaLink="false">6bd81aaa-a614-4674-b875-3f491d3d06c5</guid>
+      <iphoto:thumbnail>http://smarcel.ch/professional/Demonstrations/Demonstrations_files/Banana_Screen.jpg</iphoto:thumbnail>
+      <iweb:contents>Photo</iweb:contents>
+      <iweb:is-movie>false</iweb:is-movie>
+    </item>
+    <item>
+      <title>Hand Gesture Recognition</title>
+      <link>http://smarcel.ch/professional/Demonstrations/Pages/Hand_Gesture_Recognition.html</link>
+      <guid isPermaLink="false">b0d9638c-030e-4c92-b2db-81cac63bf023</guid>
+      <iphoto:thumbnail>http://smarcel.ch/professional/Demonstrations/Demonstrations_files/Hand_Gesture_Recognition.jpg</iphoto:thumbnail>
+      <iweb:contents>0:40</iweb:contents>
+      <iweb:is-movie>true</iweb:is-movie>
+    </item>
+    <item>
+      <title>Gesture-based Interface</title>
+      <link>http://smarcel.ch/professional/Demonstrations/Pages/Gesture-based_Interface.html</link>
+      <guid isPermaLink="false">14fbae85-9906-4f85-8b70-5ac289e5c8a6</guid>
+      <iphoto:thumbnail>http://smarcel.ch/professional/Demonstrations/Demonstrations_files/Gesture-based_Interface.jpg</iphoto:thumbnail>
+      <iweb:contents>0:16</iweb:contents>
+      <iweb:is-movie>true</iweb:is-movie>
+    </item>
+  </channel>
+</rss>

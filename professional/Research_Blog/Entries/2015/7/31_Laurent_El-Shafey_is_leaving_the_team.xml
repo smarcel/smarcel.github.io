@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:27 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Good bye Laurent</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>After 5+ years in the &lt;a href="perma://BLPageReference/7D406E27-423E-4685-8800-C4C4791B5191"&gt;biometrics group at Idiap&lt;/a&gt; working on statistical modelling for face recognition, in particular ISV, i-Vectors and PLDA, but also on so many other things, Laurent ( &lt;a href="https://www.idiap.ch/~lelshafey/"&gt;https://www.idiap.ch/~lelshafey/&lt;/a&gt; ) is leaving the team. For his thesis, on a scalable formulation of PLDA, he produced a &lt;a href="https://pypi.python.org/pypi/xbob.thesis.elshafey2014"&gt;reproducible research software package&lt;/a&gt;.&#xD;&#xD;Laurent is a great team player and one of the key contributor to BOB ( &lt;a href="http://idiap.github.io/bob/"&gt;http://idiap.github.io/bob/&lt;/a&gt; ) and a main architect of the &lt;a href="https://www.beat-eu.org/platform/"&gt;BEAT platform&lt;/a&gt; -- an online platform for reproducible research in computational science. &#xD;He published many papers and obtained several awards for his work (IAPR Best Biometrics Student Paper Award 2014, European Biometrics Research Award 2014, Idiap PhD Student Research Award 2013 and 2015 Premium Award for Best Paper in IET Biometrics).&#xD;More recently, Laurent was one of our asset during the &lt;a href="perma://BLPageReference/9DD03AB6-0131-426A-84A3-62C3C46C2181"&gt;Google ATAP research sprint&lt;/a&gt; with Elie.&#xD;&#xD;No surprise that Laurent is moving now to Google in Mountain View to work on top-secret stuff -- hopefully not too much secret or not for everybody ...&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday 31 July 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Laurent El-Shafey is leaving the team</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_Laurent_El-Shafey_is_leaving_the_team_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

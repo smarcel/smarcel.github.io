@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:30 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Idiap PhD Student Award 2015</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Yesterday &lt;a href="http://ivana7c.github.io"&gt;Ivana Chingovska&lt;/a&gt; received the &lt;a href="http://www.idiap.ch/scientific-research/awards"&gt;Idiap PhD Student Award&lt;/a&gt; 2015, for the novelty of her research contributions in biometric anti-spoofing applied to face recognition, for the number and quality of her &lt;a href="https://scholar.google.com/citations?user=kHeIBWYAAAAJ&amp;hl=en"&gt;publications&lt;/a&gt;, especially in 2015, and for her participation to the &lt;a href="http://www.idiap.ch"&gt;Idiap&lt;/a&gt; and &lt;a href="http://phd.epfl.ch/page-112791-en.html"&gt;EPFL EDEE communities&lt;/a&gt;.&#xD;&#xD;Ivana is the third PhD student from the &lt;a href="http://www.idiap.ch/~marcel/professional/Research_Team.html"&gt;biometrics group at Idiap&lt;/a&gt; to receive this award with Laurent El-Shafey in 2013 and Anindya Roy in 2011.&#xD;&#xD;Congratulations Ivana !&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday 16 December 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Idiap PhD Student Award 2015 : Ivana Chingovska</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Idiap_PhD_Student_Award_2015___Ivana_Chingovska_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

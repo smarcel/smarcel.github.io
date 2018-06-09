@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:32 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>RR book chapter on face recognition</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Idiap published a book chapter entitled &#x201C;Face Recognition in Challenging Environments: An Experimental and Reproducible Research Survey&#x201D; appearing in the Springer book &#x201C;Face Recognition Across the Imaging Spectrum&#x201D;.&#xD;&#xD;Face Recognition in Challenging Environments: An Experimental and Reproducible Research Survey&#xD;Manuel&#xA0;G&#xFC;nther, Laurent&#xA0;El&#xA0;Shafey, S&#xE9;bastien&#xA0;Marcel&#xD;&lt;a href="http://link.springer.com/book/10.1007/978-3-319-28501-6"&gt;Face Recognition Across the Imaging Spectrum&lt;/a&gt;&#xD;pp 247-280&#xD;&#xD;This publication deals with face recognition in mobile and other challenging environments, where both still images and&#xA0;video sequences are examined. We provide an experimental study of one commercial of-the-shelf and four recent open-source face&#xA0;recognition algorithms. A short summary of the study is that there is not a single algorithm&#xA0;that works best in all cases and for all applications.&#xD;&#xD;Experiment results from this book chapter can be reproduced using the distributed source code (&#xA0;&lt;a href="http://pythonhosted.org/bob.chapter.FRICE/"&gt;http://pythonhosted.org/bob.chapter.FRICE/&lt;/a&gt;&#xA0;) and the Bob library ( &lt;a href="http://idiap.github.io/bob/"&gt;http://idiap.github.io/bob/&lt;/a&gt;&#xA0;).&#xD;&#xD;More details in:&#xD;&lt;a href="http://publications.idiap.ch/downloads/papers/2016/Gunther_SPRINGER_2016.pdf"&gt;http://publications.idiap.ch/downloads/papers/2016/Gunther_SPRINGER_2016.pdf&lt;/a&gt;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday 11 March 2016</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>A Reproducible Research Survey in Face Recognition</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_A_Reproducible_Research_Survey_in_Face_Recognition_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

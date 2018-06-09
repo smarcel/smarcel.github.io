@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:47 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A couple of new papers have been accepted for publication including one journal paper:&#xD;J. Galbally, C. McCool, J.Fierrez, &lt;b&gt;S. Marcel&lt;/b&gt; and J. Ortega-Garcia, &#x2028;&#x201C;&lt;i&gt;On the Vulnerability of Face Verification Systems to Hill-Climbing Attacks&lt;/i&gt;&#x201D;, &#x2028;&lt;b&gt;Pattern Recognition&lt;/b&gt;, 43(3):1027-1038, 2010.&#xD;and 4 conference papers:&#xD;A. Roy and &lt;b&gt;S. Marcel&lt;/b&gt;. &#x201C;&lt;i&gt;Boosted binary features for noise-robust speaker verification&lt;/i&gt;&#x201D;.&#xD;In IEEE International Conference on Acoustics, Speech, and Signal Processing (&lt;b&gt;ICASSP&lt;/b&gt;), 2010 (to appear).&#x2028;&#xD;A. Roy and &lt;b&gt;S. Marcel&lt;/b&gt;. &#x201C;&lt;i&gt;Visual processing-inspired fern-audio features for noise-robust&#xD;speaker verification&lt;/i&gt;&#x201D;. In &lt;b&gt;ACM&lt;/b&gt; 25th Symposium on Applied Computing, 2010 (to appear).&#xD;&#xD;V. Subburaman and &lt;b&gt;S. Marcel&lt;/b&gt;. &#x201C;&lt;i&gt;An alternative scanning strategy to detect faces&lt;/i&gt;&#x201D;.&#xD;In IEEE International Conference on Acoustics, Speech, and Signal Processing (&lt;b&gt;ICASSP&lt;/b&gt;), 2010 (to appear).&#xD;&#xD;J. Galbally, C. McCool, J. Fierrez, &lt;b&gt;S. Marcel&lt;/b&gt;, and J. Ortega-Garcia. &#x201C;&lt;i&gt;Hill-climbing&#xD;attack to an eigenface-based face verification system&#x201D;&lt;/i&gt;. In Proceedings of the International Conference on Biometrics, Identity and Security (&lt;b&gt;BIdS&lt;/b&gt;), 2009.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mardi, 22 d&#xE9;cembre 2009</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New Papers Accepted</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_New_Papers_Accepted_files/shapeimage_2.png" left="0px" top="0px" width="259px" height="285px"/>
+</content>

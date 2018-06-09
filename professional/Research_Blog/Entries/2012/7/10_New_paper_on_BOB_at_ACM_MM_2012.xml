@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:03 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>New paper on BOB at ACM MM</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We recently got a paper accepted at the next ACM Multimedia Open-Source Software Competition in 2012.&#xD;&#xD;&lt;b&gt;&#x201C;Bob: a free signal processing and machine learning toolbox for researchers&#x201D;,&#xD;Andr&#xE9; Anjos, Laurent El Shafey, Roy Wallace, Manuel Gu&#x308;nther, Chris McCool and S&#xE9;bastien Marcel.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mardi, 10 juillet 2012</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New paper on BOB at ACM MM 2012</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_New_paper_on_BOB_at_ACM_MM_2012_files/shapeimage_2.png" left="0px" top="0px" width="298px" height="267px"/>
+</content>

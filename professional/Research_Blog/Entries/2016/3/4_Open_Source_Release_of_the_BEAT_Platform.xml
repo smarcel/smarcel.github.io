@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:32 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BEAT Open Source Now</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>After 4 years of development, the BEAT platform is now available for download as an open-source project, under the Affero GNU GPL version 3. It is composed of 6 packages which can be reached on this gitlab group repository, hosted at Idiap:&#xD;&#xD;&lt;a href="https://gitlab.idiap.ch/beat"&gt;https://gitlab.idiap.ch/beat&lt;/a&gt;&#xD;&#xD;To get started, download the package "beat.web" and read its README.rst file located on its root for quick start instructions:&#xD;&#xD;git clone&#xA0;&lt;a href="https://gitlab.idiap.ch/beat/beat.web"&gt;https://gitlab.idiap.ch/beat/beat.web&lt;/a&gt;&#xD;&#xD;In case of issues, please share your questions through our mailing list (&lt;a href="https://groups.google.com/forum/#!forum/beat-devel"&gt;https://groups.google.com/forum/#!forum/beat-devel&lt;/a&gt;).&#xD;&#xD;The project totals ~80'000 lines of code split this way:&#xD;Python: 58%&#xD;Javascript: 24%&#xD;HTML: 15%&#xD;CSS: 3%&#xD;&#xD;It makes heavy use of other open-source projects (such as Django or Twisted) and builds on the top of these frameworks to create the experience you'll find through the web application (e.g.&#xA0;&lt;a href="https://www.beat-eu.org/platform/"&gt;https://www.beat-eu.org/platform/&lt;/a&gt;).&#xD;&#xD;The Idiap instance of the platform is now updated with the software available on the link above. Let us know if you have issues accessing that link.&#xD;&#xD;Authors:&#xD;Andre Anjos &lt;&lt;a href="mailto:andre.anjos@idiap.ch"&gt;andre.anjos@idiap.ch&lt;/a&gt;&gt;&#xD;Flavio Tarsetti &lt;&lt;a href="mailto:flavio.tarsetti@idiap.ch"&gt;flavio.tarsetti@idiap.ch&lt;/a&gt;&gt;&#xD;Laurent El-Shafey &lt;&lt;a href="mailto:laurent.el-shafey@idiap.ch"&gt;laurent.el-shafey@idiap.ch&lt;/a&gt;&gt;&#xD;Philip Abbet &lt;&lt;a href="mailto:philip.abbet@idiap.ch"&gt;philip.abbet@idiap.ch&lt;/a&gt;&gt;&#xD;Samuel Gaist &lt;&lt;a href="mailto:samuel.gaist@idiap.ch"&gt;samuel.gaist@idiap.ch&lt;/a&gt;&gt;&#xD;Sebastien Marcel &lt;&lt;a href="mailto:sebastien.marcel@idiap.ch"&gt;sebastien.marcel@idiap.ch&lt;/a&gt;&gt;&#xD;&#xD;Acknowledgements: To all partners of the BEAT project, for being so supportive in the development of this wonderful tool. Thanks to all!&#xD;&#xD;Andr&#xE9; and S&#xE9;bastien</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday 4 March 2016</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Open Source Release of the BEAT Platform</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_Open_Source_Release_of_the_BEAT_Platform_files/shapeimage_2.png" left="0px" top="0px" width="333px" height="196px"/>
+</content>

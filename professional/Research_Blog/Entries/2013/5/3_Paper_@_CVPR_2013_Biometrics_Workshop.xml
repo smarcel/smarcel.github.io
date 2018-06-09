@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:10 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>CVPR 2013 Biometrics WS paper</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A new paper from the team was accepted for publication:&#xD;I. Chingovska, A. Anjos and S. Marcel. &lt;b&gt;Anti-spoofing in action: joint operation with a verification system&lt;/b&gt;. In IEEE Computer Vision and Pattern Recognition - Workshop on Biometrics, 2013, (to appear).&#xD;&#xD;&lt;a href="https://publidiap.idiap.ch/index.php/publications/show/2573"&gt;https://publidiap.idiap.ch/index.php/publications/show/2573&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>vendredi, 3 mai 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Paper @ CVPR 2013 Biometrics Workshop</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_Paper_%40_CVPR_2013_Biometrics_Workshop_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

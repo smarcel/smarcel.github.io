@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:28 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Lecture at MSU</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I was invited to give a lecture on Sep 14 2015 at the Lecture Series of the Computer Science and Engineering department of the Michigan State University.&#xD;He presented our work on spoofing/anti-spoofing and visited the Biometrics Research Group of Prof. Anil K. Jain (h-index 149) &#x2014; University Distinguished Professor in the Department of Computer Science &amp; Engineering at Michigan State University.&#xD;&#xD;More info about the talk, can be found here: &lt;a href="http://www.cse.msu.edu/Students/Current_Grad/LectureSeries/2016/20150914-Marcel.php"&gt;Spoofing, Anti-Spoofing and Reproducible Research in Biometrics&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mardi, 15 septembre 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Lecture at Michigan State University</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Lecture_at_Michigan_State_University_files/shapeimage_2.png" left="0px" top="0px" width="274px" height="274px"/>
+</content>

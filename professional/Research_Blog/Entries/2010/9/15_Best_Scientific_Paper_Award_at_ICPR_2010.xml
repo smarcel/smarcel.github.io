@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:50 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Best Scientific Paper Award</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I received, together with Norman Poh, Josef Kittler, Driss Matrouf and Jean-Fran&#xE7;ois Bonastre, 4 colleagues from the MOBIO project, the Best Scientific Paper Award for the paper entitled &#x201C;&lt;i&gt;Model and Score Adaptation for Biometric Systems: Coping with Device Interoperability and Changing Acquisition Conditions&lt;/i&gt;&#x201D; at the International Conference on Pattern Recognition (ICPR) on August 23-26 2010 in Istanbul (Turkey).&#xD;&#xD;Thanks to all of them and in particular to Norman.&#xD;&lt;i&gt;&#xD;&lt;/i&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 15 septembre 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Best Scientific Paper Award at ICPR 2010</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Best_Scientific_Paper_Award_at_ICPR_2010_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

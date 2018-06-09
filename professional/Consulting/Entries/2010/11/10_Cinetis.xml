@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="41C93A28-D63F-466B-9875-433350AA30D3">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:42 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Cinetis</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Cinetis SA is a Swiss multimedia company specialised in the development and production of film scanning solutions, including film scanner control software, databasing and postprocessing software.&#xD;&#xD;Cinetis SA ( &lt;a href="http://www.cinetis.ch"&gt;http://www.cinetis.ch&lt;/a&gt; ).</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 10 novembre 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Cinetis</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Cinetis_files/shapeimage_2.png" left="0px" top="0px" width="290px" height="148px"/>
+</content>

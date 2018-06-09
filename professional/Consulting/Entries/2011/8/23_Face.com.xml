@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="41C93A28-D63F-466B-9875-433350AA30D3">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:43 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Face.com</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Face.com is a technology company that offer a platform for developers and publishers to automatically detect and recognize faces in photos using a free API.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mardi, 23 ao&#xFB;t 2011</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Face.com</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Face.com_files/shapeimage_2.png" left="0px" top="0px" width="346px" height="144px"/>
+</content>

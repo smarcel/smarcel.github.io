@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:57 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Manuel G&#xFC;nther will join the team</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Manuel G&#xFC;nther will be joining the &lt;a href="perma://BLPageReference/7D406E27-423E-4685-8800-C4C4791B5191"&gt;biometrics group at Idiap&lt;/a&gt; as a PostDoc in January 2012 to work in the Marie Curie BBfor2 &lt;a href="perma://BLPageReference/16C86F50-3150-46D5-93D0-AA340F5388CB"&gt;sub-project &#x201C;BioX&#x201D;&lt;/a&gt;.&#xD;&#xD;Welcome Manuel !&#xD;&#xD;&lt;i&gt;Manuel G&#xFC;nther studied computer science with mathematics as minor subject at the Technical University of Ilmenau, Germany, starting in 1999. After receiving the diploma in 2004, he wrote his Ph.D. in the Institute for Neural Computation of the Ruhr University Bochum and submitted it in 2011.&#xD;&#xD;He investigated face detection and recognition systems built upon Gabor wavelets as models of the visual system in humans. He improved detection and recognition accuracies by exploiting statistics of faces and their occurrences. He established a system to classify genetic syndromes based on facial images and implemented a graphical user interface called FIDA. His teaching duties included supervision of Bachelor and Master students as well as an artificial neural networks programming exercise for students. Further interests are in the field of applied learning theories such as artificial neural networks, evolutionary algorithms, and Bayesian models.&lt;/i&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>jeudi, 17 novembre 2011</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Manuel G&#xFC;nther will join the team</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="17_Manuel_Gunther_will_join_the_team_files/shapeimage_2.png" left="0px" top="0px" width="157px" height="199px"/>
+</content>

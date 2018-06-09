@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:14 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>3D Mask Attack Database available</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The 3D Mask Attack Database (3DMAD) is a biometric (face) spoofing database. It currently contains 76500 frames of 17 persons, recorded using Kinect for both real-access and spoofing attacks. Each frame consists of:&#xD;	&#x2022;	 a depth image (640x480 pixels &#x2013; 1x11 bits)&#xD;	&#x2022;	 the corresponding RGB image (640x480 pixels &#x2013; 3x8 bits)&#xD;	&#x2022;	 manually annotated eye positions (with respect to the RGB image).&#xD;&#xA0;&#xD;The data is collected in 3 different sessions for all subjects and for each session 5 videos of 300 frames are captured. The recordings are done under controlled conditions, with frontal-view and neutral expression. The first two sessions are dedicated to the real access samples, in which subjects are recorded with a time delay of ~2 weeks between the acquisitions. In the third session, 3D mask attacks are captured by a single operator (attacker).&#xD;&#xD;The database is available here: &lt;a href="https://www.idiap.ch/dataset/3dmad"&gt;https://www.idiap.ch/dataset/3dmad&lt;/a&gt; &#xD;&#xD;If you use this database please cite this publication:&#xD;&lt;b&gt;N.&#xA0;Erdogmus and S.&#xA0;Marcel&lt;/b&gt;. &#x201C;Spoofing in 2d face recognition with 3d masks and anti-spoofing with Kinect&#x201D;. In IEEE Sixth International Conference on Biometrics: Theory, Applications and Systems (BTAS), 2013.&#xD;&#xD;Pdf: &lt;a href="http://publications.idiap.ch/downloads/papers/2013/Erdogmus_BTAS_2013.pdf"&gt;http://publications.idiap.ch/downloads/papers/2013/Erdogmus_BTAS_2013.pdf&lt;/a&gt;  &#xD;&#xD;&lt;b&gt;Source code&lt;/b&gt; to reproduce experiments in the paper:&#xD;&lt;a href="https://pypi.python.org/pypi/maskattack.lbp"&gt;https://pypi.python.org/pypi/maskattack.lbp&lt;/a&gt; &#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 24 juillet 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Kinect 3D Mask Attack Database is available</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_The_Kinect_3D_Mask_Attack_Database_is_available_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

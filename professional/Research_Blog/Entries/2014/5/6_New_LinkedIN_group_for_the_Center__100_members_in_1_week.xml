@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:20 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Swiss Center for Biometrics Research and Testing </richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Join the Center on LinkedIN:&#xD;&lt;a href="http://www.linkedin.com/groups?gid=8107249"&gt;http://www.linkedin.com/groups?gid=8107249&lt;/a&gt; &#xD;&#xD;&#xD;The Swiss Center for Biometrics Research and Testing is a center for biometric excellence established to advance biometric security technologies, mainly by facilitating collaboration between industry and academia. Its core missions are:&#xD;	&#x2022;	to carry out high quality research&#xD;	&#x2022;	to train talented engineers and researchers&#xD;	&#x2022;	to foster technology transfer from academia to industry&#xD;	&#x2022;	to propose evaluation and testing services in the domain of biometric security.&#xD;&#xD;&lt;a href="http://www.biometrics-center.ch"&gt;http://www.biometrics-center.ch&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday 6 May 2014</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New LinkedIN group for the Center: 100 members in 1 week</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_New_LinkedIN_group_for_the_Center__100_members_in_1_week_files/shapeimage_2.png" left="0px" top="0px" width="374px" height="58px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:26 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Good by Elie</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>It&#x2019;s time for change !&#xD;&#xD;After nearly 4 years in the &lt;a href="perma://BLPageReference/7D406E27-423E-4685-8800-C4C4791B5191"&gt;biometrics group at Idiap&lt;/a&gt; working on speaker recognition but also on many other things, Elie ( &lt;a href="http://www.idiap.ch/~ekhoury/"&gt;http://www.idiap.ch/~ekhoury/&lt;/a&gt; ) is leaving the team. Elie was also a strong contributor to BOB ( &lt;a href="http://idiap.github.io/bob/"&gt;http://idiap.github.io/bob/&lt;/a&gt; ) and developed the SPEAR speaker recognition library ( &lt;a href="https://pypi.python.org/pypi/bob.bio.spear"&gt;https://pypi.python.org/pypi/bob.bio.spear&lt;/a&gt; ), was involved in the collection of the Idiap voice spoofing database ( &lt;a href="https://www.idiap.ch/dataset/avspoof"&gt;https://www.idiap.ch/dataset/avspoof&lt;/a&gt; ) and published many papers.&#xD;More recently, Elie was one of our asset during the &lt;a href="perma://BLPageReference/9DD03AB6-0131-426A-84A3-62C3C46C2181"&gt;Google ATAP research sprint&lt;/a&gt;.&#xD;&#xD;Now Elie is moving to &lt;a href="http://www.pindropsecurity.com"&gt;Pindrop Security&lt;/a&gt; where Elie&#x2019;s skills but also BOB and SPEAR will be greatly appreciated.&#xD;&#xD;No doubt that the expertise Elie gained over those years in the Biometrics group at Idiap will be useful for his future career.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday 23 July 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Elie Khoury is leaving the team</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Elie_Khoury_is_leaving_the_team_files/shapeimage_2.png" left="0px" top="0px" width="339px" height="275px"/>
+</content>

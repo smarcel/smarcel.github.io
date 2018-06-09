@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:22 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>New paper</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#x201C;On the Vulnerability of Palm Vein Recognition to Spoofing Attacks&#x201D;, Pedro Tome and S&#xE9;bastien Marcel.&#xD;&#xD;The vulnerability of palm vein recognition to spoofing attacks is studied in this paper. A collection of spoofing palm vein images has been created from real palm vein samples. Palm vein images are printed using a commercial printer and then, presented at a contactless palm vein sensor. Experiments are carried out using an extensible framework, which allows fair and reproducible benchmarks. Results are presented comparing two automatic segmentations. Experimental results lead to a spoofing false accept rate of 65%, thus showing that palm vein biometrics is vulnerable to spoofing attacks, pointing out the importance to investigate countermeasures against this type of fraudulent actions. A study based on the number of the enrolment samples is also reported, demonstrating a relationship between the number of enrolment samples and the vulnerability of the system to spoofing. &#xD;&#xD;&#xD;Paper: &lt;a href="http://publications.idiap.ch/index.php/publications/show/3096"&gt;http://publications.idiap.ch/index.php/publications/show/3096&lt;/a&gt;&#xD;Databases:&#xD;VERA palm-vein &lt;a href="http://www.idiap.ch/dataset/vera-palmvein"&gt;http://www.idiap.ch/dataset/vera-palmvein&lt;/a&gt; &#xD;VERA palm-vein spoofing &lt;a href="https://www.idiap.ch/dataset/vera-spoofingpalmvein"&gt;https://www.idiap.ch/dataset/vera-spoofingpalmvein&lt;/a&gt; &#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday 26 March 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Paper on Palm Vein spoofing at ICB 2015</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Paper_on_Palm_Vein_spoofing_at_ICB_2015_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

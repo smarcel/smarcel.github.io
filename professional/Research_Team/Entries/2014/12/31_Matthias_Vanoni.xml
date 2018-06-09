@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="AC642035-7472-45A7-A869-1DFF61502373">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:31 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Matthias Vanoni</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Member of the biometric team from Aug 2013 to Dec 2014.&#xD;PhD on vein biometric recognition.&#xD;Involved in the project BEAT.&#xD;&#xD;Matthias Vanoni comes from Franche-Comt&#xE9; (France). He starts a PhD on Vascular Recognition. He was a former officer from the French Gendarmerie and obtained a master degree at the French Officer School Saint-Cyr. He is interested in biometrics and his master thesis was about modeling distortion in fingerprint images, under the supervision of Pr. Ross Arun at West Virginia University (USA). He joined the biometric group at Idiap to work on vein biometric recognition under the supervision of S&#xE9;bastien Marcel. In 2015 he decided to create the start-up company Biowatch as a spin-off of Idiap and its biometric group.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday 31 December 2014</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Matthias Vanoni</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_Matthias_Vanoni_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="AC642035-7472-45A7-A869-1DFF61502373">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:30 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Group photo</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>From left to right: Pavel Korshunov, Andr&#xE9; Anjos, Sushil Bhattacharjee, Guillaume Heusch, S&#xE9;bastien Marcel, Manuel G&#xFC;nther (on the move to &lt;a href="http://www.uccs.edu/"&gt;University of Colorado at Colorado Spring&lt;/a&gt;), Hannah Muckenhirn, Ivana Chingovska, Tiago de Freitas Pereira, Elie Khoury (moving soon to &lt;a href="http://www.pindropsecurity.com"&gt;Pindrop Security&lt;/a&gt; ) and Laurent El-Shafey (moving soon to &lt;a href="https://research.google.com"&gt;Google&lt;/a&gt; in Mountain View).</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday 23 July 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Group photo -- summer 2015</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Group_photo_-_summer_2015_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

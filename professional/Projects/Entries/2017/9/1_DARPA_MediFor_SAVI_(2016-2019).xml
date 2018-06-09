@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8ED417F9-5D4A-4C60-8247-816C86E846FA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:26 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>DARPA MediFor SAVI</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Historically, the U.S. Government deployed and operated a variety of collection systems that provided imagery with assured integrity. In recent years however, consumer imaging technology (digital cameras, mobile phones, etc.) has become ubiquitous, allowing people the world over to take and share images and video instantaneously. Mirroring this rise in digital imagery is the associated ability for even relatively unskilled users to manipulate and distort the message of the visual media. While many manipulations are benign, performed for fun or for artistic value, others are for adversarial purposes, such as propaganda or misinformation campaigns.&#xD;&#xD;This manipulation of visual media is enabled by the wide scale availability of sophisticated image and video editing applications that permit editing in ways that are very difficult to detect either visually or with current image analysis and visual media forensics tools. The forensic tools used today lack robustness and scalability, and address only some aspects of media authentication; an end-to-end platform to perform a complete and automated forensic analysis does not exist.&#xD;DARPA&#x2019;s &lt;a href="https://www.darpa.mil/program/media-forensics"&gt;MediFor program&lt;/a&gt; brings together world-class researchers to attempt to level the digital imagery playing field, which currently favors the manipulator, by developing technologies for the automated assessment of the integrity of an image or video and integrating these in an end-to-end media forensics platform. If successful, the MediFor platform will automatically detect manipulations, provide detailed information about how these manipulations were performed, and reason about the overall integrity of visual media to facilitate decisions regarding the use of any questionable image or video.&#xD;&#xD;In the SAVI project of the MediFor program, &lt;a href="https://www.sri.com"&gt;SRI&lt;/a&gt;, the University of Amsterdam and the Idiap Research Institute (Switzerland) are working on the detection of Audio-Visual Inconsistencies.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday 1 September 2017</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>DARPA MediFor SAVI (2016-2019)</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_DARPA_MediFor_SAVI_%282016-2019%29_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

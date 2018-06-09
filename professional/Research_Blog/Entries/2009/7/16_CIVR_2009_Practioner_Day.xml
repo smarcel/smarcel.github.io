@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:46 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>From left to right on the picture: Jean-Pierre Gehrig, Jan Erik Solem, Oliver Heckmann, Ricardo Baeza-Yates, Johan Oomen, S&#xE9;bastien Marcel, Hans van Gageldonk, Roelof van Zwol, Yiannis Kompatsiaris and St&#xE9;phane Marchand-Maillet.&#xD;&#xD;On July 10 2009, I had the privilege to chair together with Roelof van Zwol from Yahoo! Research the Practitioner Day (&lt;a href="http://www.civr2009.org/pd"&gt;http://www.civr2009.org/pd&lt;/a&gt;) of the ACM International Conference on Image and Video Retrieval (CIVR) in Santorini.&#xD;&#xD;That day started with a keynote given by Dr. Ricardo Baeza-Yates from Yahoo! Research Barcelona on &#x201C;Mining the Web 2.0 for Improved Image Search&#x201D; as well as various talks on &#x201C;Distributed Media on the Web&#x201D; and &#x201C;Media in post-production and broadcasting&#x201D; given by a wide range of speakers including Oliver Heckmann from Google Zurich, Jan Erik Solem from Polar Rose, Johan Oomen from Beeld En Geluid, Hans van Gageldonk from Philips Research Laboratories, Jean-Pierre Gehrig from Cinetis, Xavier Vives from Corporaci&#xB4;o Catalana de Mitjans Audiovisuals and Baris Sumengen from Like.com (formerly Riya).&#xD;&#xD;&lt;i&gt;This work has been supported by the European PASCAL NoE (&lt;/i&gt;&lt;i&gt;&lt;a href="http://www.pascal-network.org/"&gt;http://www.pascal-network.org&lt;/a&gt;&lt;/i&gt;&lt;i&gt;) and the Swiss National Center of Competence in Research IM2 (&lt;/i&gt;&lt;i&gt;&lt;a href="http://www.im2.ch/"&gt;http://www.im2.ch&lt;/a&gt;&lt;/i&gt;&lt;i&gt;). I would like to thank the EU and the Swiss National Science Foundation for the financial support.&#xD;&lt;/i&gt;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>jeudi, 16 juillet 2009</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>CIVR 2009 Practioner Day</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_CIVR_2009_Practioner_Day_files/shapeimage_2.png" left="0px" top="0px" width="382px" height="297px"/>
+</content>

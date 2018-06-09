@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:29 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>SWAN project Kick-Off</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>On 2nd November the Kick-Off meeting of the SWAN-project was held at Gj&#xF8;vik University College. &#xD;&#xD;The project has 6 partners from Norway, Germany, France and Switzerland and is truly an European research project Gj&#xF8;vik University College (&lt;a href="http://nislab.no/biometrics_lab"&gt;http://nislab.no/biometrics_lab&lt;/a&gt;) as the coordinator of the project, is working closely with its partners University of Oslo (&lt;a href="http://folk.uio.no/josang"&gt;http://folk.uio.no/josang&lt;/a&gt;), Idiap Research Institute in Switzerland (&lt;a href="http://www.idiap.ch/biometrics"&gt;http://www.idiap.ch/biometrics&lt;/a&gt;), Safran Morpho (&lt;a href="http://www.morpho.com/"&gt;http://www.morpho.com&lt;/a&gt;) and Zwipe (&lt;a href="http://www.zwipe.com"&gt;http://www.zwipe.com&lt;/a&gt;). The group assembles standing experience in identity and biometrics research and more particularly in mobile face and speaker recognition as well as in presentation attack detection (aka anti-spoofing). The team is supported by end users from the financial sector and the Association of German Banks.&#xD;&#xD;Read more: &lt;a href="http://nislab.no/biometrics_lab/swan"&gt;http://nislab.no/biometrics_lab/swan&lt;/a&gt; &#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday 4 November 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>SWAN project Kick-Off</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="4_SWAN_project_Kick-Off_files/shapeimage_2.png" left="0px" top="0px" width="589px" height="275px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8ED417F9-5D4A-4C60-8247-816C86E846FA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:21 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>EU FP5 BANCA</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;BANCA&#x2028;&#x201C;Biometric Access Control for Networked and e-Commerce Applications"&#xD;&lt;/b&gt;&#xD;Post-Doc research on face recognition with Artificial Neural Networks for banking applications.&#xD;&#xD;&lt;a href="http://cordis.europa.eu/project/rcn/53654_en.html"&gt;http://cordis.europa.eu/project/rcn/53654_en.html&lt;/a&gt; &#xD;&#xD;Some outcomes:&#xD;	&#x2022;	 the &lt;a href="http://www.ee.surrey.ac.uk/CVSSP/banca/"&gt;BANCA database&lt;/a&gt; at UNIS ( &lt;a href="http://www.ee.surrey.ac.uk/CVSSP/banca/"&gt;http://www.ee.surrey.ac.uk/CVSSP/banca/&lt;/a&gt; )&#xD;	&#x2022;	 the &lt;a href="https://www.beat-eu.org/platform/databases/banca/"&gt;BANCA database on the BEAT platform&lt;/a&gt; ( &lt;a href="https://www.beat-eu.org/platform/databases/banca/"&gt;https://www.beat-eu.org/platform/databases/banca/&lt;/a&gt; )&#xD;	&#x2022;	 K.&#xA0;Messer, J.&#xA0;Kittler, M.&#xA0;Sadeghi, M.&#xA0;Hamouz, A.&#xA0;Kostyn, S.&#xA0;Marcel, S.&#xA0;Bengio, F.&#xA0;Cardinaux, C.&#xA0;Sanderson, N.&#xA0;Poh, Y.&#xA0;Rodriguez, J.&#xA0;Czyz, and al. Face authentication test on the BANCA database. In Proceedings of the International Conference on Pattern Recognition (ICPR), Cambridge, August 23-26 2004.[&#xA0;&lt;a href="http://www.idiap.ch/~marcel/professional/publications/messer-icpr-2004.pdf"&gt;paper&lt;/a&gt;&#xA0;]&#xD;	&#x2022;	 K.&#xA0;Messer, J.&#xA0;Kittler, M.&#xA0;Sadeghi, M.&#xA0;Hamouz, A.&#xA0;Kostyn, S.&#xA0;Marcel, S.&#xA0;Bengio, F.&#xA0;Cardinaux, C.&#xA0;Sanderson, N.&#xA0;Poh, Y.&#xA0;Rodriguez, K.&#xA0;Kryszczuk, J.&#xA0;Czyz, L.&#xA0;Vandendorpe, J.&#xA0;Ng, H.&#xA0;Cheung, and B.&#xA0;Tang. Face authentication competition on the BANCA database. In Proceedings of the International Conference on Biometric Authentication (ICBA), Hong Kong, July 15-17 2004. [&#xA0;&lt;a href="http://www.idiap.ch/~marcel/professional/publications/messer-icba-2004.pdf"&gt;paper&lt;/a&gt;&#xA0;]&#xD;	&#x2022;	 K.&#xA0;Messer, J.&#xA0;Kittler, J.&#xA0;Short, G.&#xA0;Heusch, F.&#xA0;Cardinaux, S.&#xA0;Marcel, Y.&#xA0;Rodriguez, and al. Performance characterization of face recognition algorithms and their sensitivity to severe illumination changes. In International Conference on Biometrics (ICB), 2006. [&#xA0;&lt;a href="http://www.idiap.ch/~marcel/professional/publications/messer-icb-2006.pdf"&gt;paper&lt;/a&gt;&#xA0;]&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday 3 January 2000</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>BANCA (2000-2003)</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_BANCA_%282000-2003%29_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="186px"/>
+</content>

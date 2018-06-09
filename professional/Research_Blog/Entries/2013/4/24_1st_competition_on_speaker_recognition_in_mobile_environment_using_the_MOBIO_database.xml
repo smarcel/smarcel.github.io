@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:09 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>MOBIO competition on speaker recognition</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Idiap organized the &lt;b&gt;1st competition on speaker recognition in mobile environment using the MOBIO database&lt;/b&gt; in conjunction with The 6th IAPR/IEEE International Conference on Biometrics (&lt;a href="http://atvs.ii.uam.es/icb2013/"&gt;http://atvs.ii.uam.es/icb2013/&lt;/a&gt;) June 4-7, 2013 Madrid SPAIN.&#xD;&#xD;The competition is now closed, results from the competition will be presented at the conference and available in the proceedings:&#xD;E.&#xA0;Khoury, B.&#xA0;Vesnicer, J.&#xA0;Franco-Pedroso, R.&#xA0;Violato, Z.&#xA0;Boulkenafet, L.M.&#xA0;Mazaira Fern&#xE1;ndez, M.&#xA0;Diez, J.&#xA0;Kosmala, H.&#xA0;Khemiri, T.&#xA0;Cipr, R&#xA0;.Saeidi, M.&#xA0;G&#xFC;nther, L.&#xA0;El-Shafey, J.&#xA0;&#x17D;ganec Gros, R.&#xA0;Zazo Candil, F.&#xA0;Sim oes, M.&#xA0;Bengherabi, A.&#xA0;&#xC1;lvarez Marquina, M.&#xA0;Penagarikano, A.&#xA0;Abad, M.&#xA0;Boulayemen, P.&#xA0;Schwarz, D.&#xA0;Van Leeuwen, J.&#xA0;Gonz&#xE1;lez-Dom&#xED;nguez, M.&#xA0;Uliani Neto, E.&#xA0;Boutellaa, P.&#xA0;G&#xF3;mez Vilda, A.&#xA0;Varona, S.&#xA0;Guedria, P.&#xA0;Mat&#x11B;jka, J.&#xA0;Gonz&#xE1;lez-Rodr&#xED;guez, T.&#xA0;Pereira, F.&#xA0;Harizi, L.&#xA0;J. Rodriguez-Fuentes, D.&#xA0;Petrovska-Delacr&#xE9;taz, M.&#xA0;Angeloni, G.&#xA0;Bordel, G.&#xA0;Chollet, and S.&#xA0;Marcel. &lt;b&gt;The 2013 speaker verification evaluation in mobile environment using the MOBIO database&lt;/b&gt;. In IAPR International Conference on Biometrics (ICB), 2013. (to appear).&#xD;&#xD;More information at: &lt;a href="http://www.beat-eu.org/evaluations/icb-2013-speaker-recognition-mobio"&gt;http://www.beat-eu.org/evaluations/icb-2013-speaker-recognition-mobio&lt;/a&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 24 avril 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>1st competition on speaker recognition in mobile environment using the MOBIO database</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_1st_competition_on_speaker_recognition_in_mobile_environment_using_the_MOBIO_database_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

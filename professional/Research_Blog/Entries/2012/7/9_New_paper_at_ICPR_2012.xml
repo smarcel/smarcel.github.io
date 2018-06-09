@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:02 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>New paper at ICPR 2012</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We recently got a paper accepted at the next International Conference on Pattern Recognition (ICPR) on November 11-15, 2012 at the Tsukuba International Congress Center, Tsukuba, Japan.&#xD;&#xD;&lt;b&gt;&#x201C;Bi-Modal Authentication in Mobile Environments using Session Variability Modelling&#x201D;, Petr Motlicek, Laurent El Shafey, Roy Wallace, Christopher McCool, S&#xE9;bastien Marcel&#xD;&lt;/b&gt;&#xD;We present a state-of-the-art bi-modal authentication system for mobile environments, using session variability modelling. We examine inter-session variability modelling (ISV) and joint factor analysis (JFA) for both face and speaker authentication and evaluate our system on the largest bi-modal mobile authentication database available, the MOBIO database, with over 61 hours of audio-visual data captured by 150 people in uncontrolled environments on a mobile phone. Our system achieves 2.6% and 9.7% half total error rate for male and female trials respectively &#x2013; relative improvements of 78% and 27% compared to previous results.&#xD;&#xD;Link: &lt;a href="http://publications.idiap.ch/index.php/publications/show/2353"&gt;http://publications.idiap.ch/index.php/publications/show/2353&lt;/a&gt; &#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>lundi, 9 juillet 2012</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New paper at ICPR 2012</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_New_paper_at_ICPR_2012_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

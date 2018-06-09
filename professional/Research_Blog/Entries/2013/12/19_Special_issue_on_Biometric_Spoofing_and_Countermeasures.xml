@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:17 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>CFP IEEE TIFS SI</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I am happy to announce a CFP for a IEEE Transactions on Information Forensics and Security&#xA0;(&lt;b&gt;TIFS&lt;/b&gt;) Special Issue on &lt;b&gt;Biometric Spoofing and Countermeasures&lt;/b&gt;.&#xD;&#xD;&lt;b&gt;Guest Editors:&#xD;&lt;/b&gt;Nicholas Evans - EURECOM (France)&#xD;S&#xE9;bastien Marcel - Idiap Research Institute (Switzerland)&#xD;Arun Ross - Michigan State University (USA)&#xD;Stan Z. Li - Chinese Academy of Sciences (China)&#xD;&#xD;More information on the page &lt;a href="perma://BLPageReference/39D95D0E-366F-44D7-ABEC-9A16832349CE"&gt;HERE&lt;/a&gt;.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday 19 December 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Special issue on Biometric Spoofing and Countermeasures</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Special_issue_on_Biometric_Spoofing_and_Countermeasures_files/shapeimage_2.png" left="0px" top="0px" width="307px" height="173px"/>
+</content>

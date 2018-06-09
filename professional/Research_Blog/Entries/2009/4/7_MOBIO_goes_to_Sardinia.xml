@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:45 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>As part of MOBIO, Guillaume, Chris and S&#xE9;bastien are going to Sardinia to attend the 3rd IAPR/IEEE International Conference on Biometrics on 2-5 June 2009 and the 6th Summer School on Biometrics on June 8-12 2009.&#xD;&#xD;We will present 2 joint papers at ICB and then Chris and S&#xE9;bastien will attend the Summer School.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mardi, 7 avril 2009</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>MOBIO goes to Sardinia</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_MOBIO_goes_to_Sardinia_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

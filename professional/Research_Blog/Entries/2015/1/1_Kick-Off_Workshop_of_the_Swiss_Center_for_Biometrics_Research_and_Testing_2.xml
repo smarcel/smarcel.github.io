@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:22 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>EAB-CITeR</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>As a consequence of the sucsessful &lt;a href="perma://BLPageReference/A9F57830-8093-41A4-A840-AE47D9CA311C"&gt;Kick-off Workshop of the Swiss Center for Biometrics Research and Testing&lt;/a&gt;, the European Association for Biometrics (&lt;a href="http://www.eab.org"&gt;EAB&lt;/a&gt;) and the &lt;a href="http://www.idiap.ch"&gt;Idiap Research Institute&lt;/a&gt; decided to elevate at a more European level the initiative of the Idiap Research Institute to create a cooperative research consortium  towards the establishment of EAB-CITeR. &#xD;&#xD;In the process to establish EAB-CITeR, the resources of IDIAP and the critical mass of over 160 current EAB members shall complement each other. The EAB-CITeR is established after the model of the US based Center for Identification Technology Research (US-CITeR). The EAB-CITeR and the US-CITeR are seeking close cooperation while remaining independent consortia. &#xD;&#xD;The inauguration of the EAB-CITeR is scheduled to take place during the EAB-symposium in London on February 25th, 2015. &#xD;See: &lt;a href="http://eab.org/events/program/86"&gt;http://eab.org/events/program/86&lt;/a&gt;  </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday 1 January 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>European Cooperative Identification Technology Research Consortium (EAB-CITeR) established</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Kick-Off_Workshop_of_the_Swiss_Center_for_Biometrics_Research_and_Testing_2_files/shapeimage_2.png" left="0px" top="0px" width="265px" height="251px"/>
+</content>

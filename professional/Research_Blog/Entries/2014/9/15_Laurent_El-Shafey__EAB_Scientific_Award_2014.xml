@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:21 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>European Biometrics Research Award 2014</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>On 10 September 2014 the jury of the 8th European Biometrics Research and Industry Award has selected the three laureates of the 2014 edition of this prestigious competition. The winner of the European Biometrics Research Award is &lt;b&gt;Laurent El-Shafey&lt;/b&gt; from the Idiap Research Institute (Switzerland) for his thesis &#x201C;Scalable Probabilistic Models: Applied to Face Identification in the Wild&#x201D;.&#xD;&#xD;Patrizio Campisi, Chairman of the award and full professor at the Department of Applied Electronics at the Universit&#xE0; degli Studi "Roma TRE" (Rome, Italy) says about the 2014 edition: &#x201C;&lt;i&gt;It is great to see so such high level presentations and excellent motivations by the three finalists. This benefits the dynamics and quality of biometrics research in Europe.&lt;/i&gt;&#x201D;.&#xD;&#xD;More information about the finalists presentations and papers is available on the EAB website:&#xD;&lt;a href="http://www.eab.org/award/reports/report2014.html?ts=1410764719629"&gt;http://www.eab.org/award/reports/report2014.html?ts=1410764719629&lt;/a&gt;&#xD;&#xD;(Source: EAB website)</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>lundi, 15 septembre 2014</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Laurent El-Shafey: EAB Research Award 2014</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Laurent_El-Shafey__EAB_Scientific_Award_2014_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

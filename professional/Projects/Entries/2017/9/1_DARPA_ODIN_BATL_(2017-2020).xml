@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8ED417F9-5D4A-4C60-8247-816C86E846FA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:26 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>IARPA ODIN BATL</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The US Government uses biometrics to identify persons of interest, but biometric presentation attacks can prevent correct identification. The goal of the &lt;a href="https://www.iarpa.gov/index.php/research-programs/odin"&gt;Odin program&lt;/a&gt; is to develop biometric presentation attack detection technologies to ensure biometric security systems can detect when someone is attempting to disguise their biometric identity.&#xD;&#xD;In order to test Odin&#x2019;s ability to detect presentation attack approaches, a red team approach may be used to evaluate the performance of Odin technology. This will be facilitated by two components of Odin. Thor will develop presentation attack detection technology, and Loki will exercise Thor technology. As security vulnerabilities in government systems may be classified, Loki will be issued as a classified broad agency announcement.&#xD;&#xD;In the BATL project of the ODIN program, the University of Southern California&#x2019;s (Computer Science Department), the Idiap Research Institute, (Switzerland), Darmastadt University of Applied Sciences (Germany), TREX Enterprises and Northrop Grumman are developing novel presentation attack detection technologies.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday 1 September 2017</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>DARPA ODIN BATL (2017-2020)</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_DARPA_ODIN_BATL_%282017-2020%29_files/shapeimage_2.png" left="0px" top="0px" width="242px" height="211px"/>
+</content>

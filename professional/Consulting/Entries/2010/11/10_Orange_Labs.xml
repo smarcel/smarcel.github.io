@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="41C93A28-D63F-466B-9875-433350AA30D3">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:42 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Orange Labs</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Orange Labs is the Research and Development division of the Orange group, formerly France Telecom R&amp;D and &lt;a href="http://en.wikipedia.org/wiki/Centre_national_d'%C3%A9tudes_des_t%C3%A9l%C3%A9communications"&gt;CNET&lt;/a&gt;.&#xD;&#xD;Orange Labs ( &lt;a href="http://www.orange.com/en_EN/innovation"&gt;http://www.orange.com/en_EN/innovation&lt;/a&gt; ).</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 10 novembre 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Orange Labs</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Orange_Labs_files/shapeimage_2.png" left="0px" top="0px" width="206px" height="206px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="AC642035-7472-45A7-A869-1DFF61502373">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:29 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Sushil Bhattacharjee</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Member of the biometric team from Jul 2015 to --&#xD;Scientific collaborator on mobile trustworthy face and speaker recognition.&#xD;Involved in the project Google AS and TeSLA.&#xD;&#xD;Sushil Bhattacharjee grew up in India. He received a PhD from the Signal Processing Lab at EPFL in 1999, on the subject of content based image retrieval. Since then he has held R&amp;D positions at several Swiss companies, where he has worked on a range of topics including information retrieval, video-surveillance, and bank-note processing machines. He enjoys working on computer vision and machine learning applied to various problems.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday 1 July 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Sushil Bhattacharjee *</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Sushil_Bhattacharjee___files/shapeimage_2.png" left="0px" top="0px" width="243px" height="275px"/>
+</content>

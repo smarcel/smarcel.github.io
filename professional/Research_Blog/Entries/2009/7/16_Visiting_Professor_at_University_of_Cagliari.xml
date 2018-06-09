@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:47 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I have been offered a temporary appointment as Visiting Professor in the Faculty of Engineering at the University of Cagliari with Prof. Fabio Roli from January 18 2010 to February 1 2010.&#xD;&#xD;I will have the opportunity to give lectures on face recognition and to work with Prof Fabio Roli and his team.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>jeudi, 16 juillet 2009</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Visiting Professor at University of Cagliari</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Visiting_Professor_at_University_of_Cagliari_files/shapeimage_2.png" left="0px" top="0px" width="165px" height="168px"/>
+</content>

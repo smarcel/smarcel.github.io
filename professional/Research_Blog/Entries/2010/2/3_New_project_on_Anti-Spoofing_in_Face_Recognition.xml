@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:47 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I obtained a new project funded by the Swiss Innovation Promotion Agency (CTI) to develop new algorithms and models for anti-spoofing in face recognition.&#xD;&#xD;Face recognition has been an active research area for more than 30 years and different systems are now capable of correctly recognizing people's faces under specific environments (near frontal faces and controlled imaging conditions). &#xD;However, conventional techniques for face recognition are vulnerable to attacks. Generally, two types of attacks are considered: (1) indirect attacks are due to intruders, i.e. hackers, in the system, and (2) direct attacks, i.e. replay attacks (also often called spoofing attacks), when a person tries to masquerade as another one by falsifying data and thereby gaining an illegitimate advantage. &#xD;Currently, spoofing attacks are a major problem for companies willing to market face recognition technologies and there is a need for efficient, reliable and scalable solutions for anti-spoofing in face recognition.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 3 f&#xE9;vrier 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New project on Anti-Spoofing in Face Recognition</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_New_project_on_Anti-Spoofing_in_Face_Recognition_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

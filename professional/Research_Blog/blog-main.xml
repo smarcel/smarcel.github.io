@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Research Blog</title>
+    <link>http://smarcel.ch/professional/Research_Blog</link>
+    <description>This is a feed of recent activities (projects, papers, people, ...)</description>
+    <item>
+      <title>Andr&#xE9; Anjos is now Member of Research Staff</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2018/5/2_Andre_Anjos_is_now_Member_of_Research_Staff.html</link>
+      <guid isPermaLink="false">18c2e46d-b2d5-402d-ae2b-505541cb2e0e</guid>
+      <pubDate>Wed, 2 May 2018 11:45:53 +0200</pubDate>
+      <description>After working several years since 2010 as PostDoc and a Research Associate on face anti-spoofing, vein recognition and other topics in the Biometrics group, Andr&#xE9; has been hired as a permanent member of the research staff at Idiap. Andr&#xE9; will phase-out progressively from the biometrics group to develop new activites at Idiap.&lt;br/&gt;&lt;br/&gt;Congratulations to Andr&#xE9; !&lt;br/&gt;&lt;br/&gt;Andr&#xE9; Anjos started studying electronics and computers in 1994, when he joined the Electronics Engineering School (&lt;a href="http://www.del.ufrj.br/"&gt;http://www.del.ufrj.br&lt;/a&gt;) at the Federal University of Rio de Janeiro (&lt;a href="http://www.ufrj.br/"&gt;http://www.ufrj.br&lt;/a&gt;). He obtained a Ph.D. in Signal Processing in 2006 with a work on High-Energy Physics Particle Detection using Neural Networks. In 2004, he joins CERN (&lt;a href="http://www.cern.ch/"&gt;http://www.cern.ch&lt;/a&gt;), Switzerland to work on the development and construction of the Trigger and Data Acquisition systems of the ATLAS Experiment. His domains of interest are pattern recognition and applied computing.&lt;br/&gt;&lt;br/&gt;You can follow this link to Andr&#xE9;'s homepage (&lt;a href="http://andreanjos.org/"&gt;http://andreanjos.org&lt;/a&gt;) for more information, his CV and a complete list of publications.</description>
+      <iweb:image href="Media/object024.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2018/5/2_Andre_Anjos_is_now_Member_of_Research_Staff.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Master course on Biometrics at UNIL</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2018/5/2_Master_course_on_Biometrics_at_UNIL.html</link>
+      <guid isPermaLink="false">6cfa90eb-50d6-47ea-a836-f23bc2e398a9</guid>
+      <pubDate>Wed, 2 May 2018 11:37:19 +0200</pubDate>
+      <description>Biometrics refers to the automated recognition of individuals based on their behavioural (speech, ...) and biological (face, fingerprint, iris, ...)&#xA0; characteristics for identification or authentication. It is a truly multidisciplinary domain at the intersection of bio-physiology, signal processing, machine learning, and cryptology, and provides multiple fundamental scientific challenges in these domains.&lt;br/&gt;&lt;br/&gt;This course introduces to the analysis, modelling and interpretation of biometric data for biometric person recognition, forensic biometrics, cybersecurity and behavioural biometrics in man-machine communication.&lt;br/&gt;&lt;br/&gt;The course is proposed at UNIL (&lt;a href="https://applicationspub.unil.ch/interpub/noauth/php/Ud/ficheCours.php?v_ueid=19&amp;v_etapeid1=29044&amp;v_semposselected=-1&amp;v_langue=en&amp;v_isinterne=&amp;v_enstyid=66671&amp;v_blocid="&gt;UNIL Biometrics&lt;/a&gt;) as a compulsory course of the Master of Science (MSc) in &#x201C;Forensic Science, orientation Physical Identification&#x201D;, a option course of the Master of Science (MSc) in &#x201C;Forensic Science, orientation Chemical Criminalistics&#x201D; and the Master of Science (MSc) in &#x201C;Forensic Science, orientation Digital Investigation and Identification&#x201D;. This course is also proposed at EPFL (&lt;a href="http://edu.epfl.ch/coursebook/en/biometrics-UNIL-402"&gt;UNIL-402&lt;/a&gt;) as an optional course of the Master &#x201C;Data Science and Systems&#x201D; (2018-2019) and the Master &#x201C;Signal, Image, Video and Communications&#x201D; (2018-2019).&lt;br/&gt;&lt;br/&gt;More details on the course &amp;lt;&lt;a href="../UNIL_BIOMETRICS_2018.html"&gt;HERE&lt;/a&gt;&gt;</description>
+      <iweb:image href="Media/object002.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2018/5/2_Master_course_on_Biometrics_at_UNIL.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Saeed Sarfjoo is joining the team</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2018/4/6_Saeed_Sarfjoo_is_joining_the_team.html</link>
+      <guid isPermaLink="false">5683339f-3de7-4b1b-b6cf-2c65a898990f</guid>
+      <pubDate>Fri, 6 Apr 2018 11:05:41 +0200</pubDate>
+      <description>Saeed Sarfjoo is joining the &lt;a href="../Research_Team/Research_Team.html"&gt;Biometrics group&lt;/a&gt; at Idiap in April 2018 as a postdoc.&lt;br/&gt;&lt;br/&gt;Welcome Saeed !&lt;br/&gt;&lt;br/&gt;Seyyed Saeed Sarfjoo received the B.Sc. degree in information technology from Isfahan University, Isfahan, Iran, in 2009 and the M.Sc. degree in information technology from Qom University, Qom, Iran, in 2012. In 2009, he joined Asr Gooyesh Pardaz Co, Tehran, Iran, as a Software Developer/Researcher. His career in this company mostly focused on Persian text-to-speech, Persian speech recognition, and Persian interactive voice response systems. In 2013, he started the Ph.D. in computer science at Ozyegin University, Istanbul, Turkey and received the Ph.D. degree in August 2017. In that period, he was also a graduate research assistant at the Speech Processing Lab of Ozyegin University. In 2017, he joined National Institute of Informatics, Tokyo, Japan as a visiting Ph.D. student. In the Ph.D. period, his research mostly focused on intra-lingual and cross-lingual adaptation in HMM- and DNN-based speech synthesis.&#xA0; &#xA0;&lt;br/&gt;&lt;br/&gt;His current research interests include deep learning, biometrics, speech processing, spoofing and its&#xA0;countermeasures in automatic speaker verification systems.</description>
+      <iweb:image href="Media/object008.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2018/4/6_Saeed_Sarfjoo_is_joining_the_team.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Ketan Kotwal is joining the team</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2018/4/6_Ketan_Kotwal_is_joining_the_team.html</link>
+      <guid isPermaLink="false">557fd4ae-5d94-4934-a126-ac14b034f2c2</guid>
+      <pubDate>Fri, 6 Apr 2018 11:05:39 +0200</pubDate>
+      <description>Ketan Kotwal is joining the &lt;a href="../Research_Team/Research_Team.html"&gt;Biometrics group&lt;/a&gt; at Idiap in March 2018 as a postdoc.&lt;br/&gt;&lt;br/&gt;Welcome Ketan !&lt;br/&gt;&lt;br/&gt;Ketan Kotwal obtained his MTech and PhD from Indian Institute of Technology Bombay (IIT Bombay) in 2012 with specialization in image processing. His PhD work develops new approaches for multi-band image visualization and their evaluation. His work on optimization-based fusion framework was selected in top 10 papers in the International Conference on Information Fusion in 2011. Ketan is the recipient of Best Thesis Award by the Computer Society of India (CSI), as well as Excellence in Thesis Award by IIT Bombay. He is the co-author of research monograph &amp;quot;Hyperspectral Image Fusion&amp;quot; published by Springer, US.&#xA0;&lt;br/&gt;&lt;br/&gt;Ketan was a part of multimedia group at Samsung Research India where he developed camera features for Samsung's flagship mobiles. For last 2 years, he has consulted to several companies and startups for R&amp;amp;D problems in image processing, computer vision, and machine learning.&#xA0;</description>
+      <iweb:image href="Media/object007.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2018/4/6_Ketan_Kotwal_is_joining_the_team.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Anjith George is joining the team</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2017/9/1_Anjith_George_is_joining_the_team.html</link>
+      <guid isPermaLink="false">9663fa4f-46b9-4d28-af9c-edd428279893</guid>
+      <pubDate>Fri, 1 Sep 2017 08:33:47 +0200</pubDate>
+      <description>Anjith George is joining the &lt;a href="../Research_Team/Research_Team.html"&gt;Biometrics group&lt;/a&gt; at Idiap in October 2017 as a postdoc.&lt;br/&gt;&lt;br/&gt;Welcome Anjith !&lt;br/&gt;&lt;br/&gt;Anjith&#xA0; George is currently pursuing Ph.D. from a Department of Electrical Engineering, IIT Kharagpur, India.&#xA0; His thesis work focuses on image-based eye gaze tracking and its applications such as biometric identification and activity recognition. He has developed algorithms for low-cost eye gaze tracking in desktop as well as wearable scenarios. He has proposed and implemented a novel eye movement based biometrics identification algorithm. In his master's work, he has developed algorithms for driver drowsiness detection in automotive environments.&lt;br/&gt;&lt;br/&gt;His current research interests include Computer vision,&#xA0; deep learning, biometrics, and image processing. He is gearing up to work on secured face recognition where spoofing attacks can be preemptively addressed.&lt;br/&gt;</description>
+      <iweb:image href="Media/object006.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2017/9/1_Anjith_George_is_joining_the_team.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>David Geissb&#xFC;hler is joining the team</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2017/5/29_David_Geissbuhler_is_joining_the_team.html</link>
+      <guid isPermaLink="false">80ebcd2a-c697-4ec7-a339-1484b43b82a1</guid>
+      <pubDate>Mon, 29 May 2017 11:54:19 +0200</pubDate>
+      <description>David Geissb&#xFC;hler is joining the &lt;a href="../Research_Team/Research_Team.html"&gt;Biometrics group&lt;/a&gt; at Idiap in June 2017 as a postdoc.&lt;br/&gt;&lt;br/&gt;Welcome David !&lt;br/&gt;&lt;br/&gt;David obtained a PhD in High-Energy Theoretical Physics from the University of Bern (Switzerland). During this time his research focuses on several aspect of String Theories, low-energy effective theories and AdS-CFT correspondance. His PhD thesis, entitled &#x201C;Non-Geometric Aspects of String Flux-Compactifications&#x201D;, focuses on T-Duality invariant effective theories and their dimensional reduction to gauged supergravities. &lt;br/&gt;&lt;br/&gt;After his thesis, he joins the ACCES group at EPFL for a postdoc in computational engineering.  During this time his research focuses on Discrete Element Modelling (DEM) of ball mills for improving efficiency of the cement milling process, and also Collaborative Scientific Visualisation in the CoViz project. &lt;br/&gt;&lt;br/&gt;Two years later he joins the Powder Technology Group (LTP) at EPFL for assistance in mesoscale numerical modelling in several industry and research projects. These projects include, thermal transfert modelling in fibrous media, sintering dynamics, thermal transport and crack formation in novel porous ceramics for thermal insulation and sintering dynamics for beam targets at the CERN&#x2019;s ISOLDE experiment. Moreover he leads the development of the cemff forcefields database, aiming at exchange of data in the community of atomistic modelling of cementitious materials.&lt;br/&gt;&lt;br/&gt;While David had a variety of research interests during his academic career, he is looking forward extending those towards new horizons by joining the Biometrics group at Idiap with the goal of achieving better security of biometric systems.&lt;br/&gt;</description>
+      <iweb:image href="Media/object002_1.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2017/5/29_David_Geissbuhler_is_joining_the_team.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>New wintertime group photo</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2017/2/15_New_wintertime_group_photo.html</link>
+      <guid isPermaLink="false">59a9e6a3-5bca-4b53-99bf-875909d938af</guid>
+      <pubDate>Wed, 15 Feb 2017 17:01:32 +0100</pubDate>
+      <description>From left to right: Vedrana Krivoku&#x107;a, Jaden Diefenbaugh, Olegs Nikisins, Andr&#xE9; Anjos, Amir Mohammadi, S&#xE9;bastien Marcel, Sushil Bhattacharjee, Teodors Eglitis, Hannah Muckenhirn, Pavel Korshunov, Tiago de Freitas Pereira, Alain Komaty and Guillaume Heusch.</description>
+      <iweb:image href="Media/object010.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2017/2/15_New_wintertime_group_photo.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Vedrana Krivoku&#x107;a is joining the team</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/11/2_Vedrana_Krivokuca_is_joining_the_team.html</link>
+      <guid isPermaLink="false">1456bc55-d244-422c-99d9-0e931503bfba</guid>
+      <pubDate>Wed, 2 Nov 2016 09:56:56 +0100</pubDate>
+      <description>Vedrana Krivokuca is joining the &lt;a href="../Research_Team/Research_Team.html"&gt;biometrics group at Idiap&lt;/a&gt; in January 2017 to work on a biometric template protection.&lt;br/&gt;&lt;br/&gt;Welcome Vedrana !&lt;br/&gt;&lt;br/&gt;Vedrana Krivoku&#x107;a is joining the biometrics group at Idiap in January 2017 as a postdoc in biometric template protection.&lt;br/&gt;&lt;br/&gt;Vedrana obtained her PhD in Computer Systems Engineering from the University of Auckland (New Zealand) in 2015. Her thesis, entitled &#x201C;Fingerprint Template Protection using Compact Minutiae Patterns&#x201D;, proposes a novel approach for securing fingerprint templates when they are stored in a central database. &lt;br/&gt;&lt;br/&gt;Vedrana&#x2019;s main research interests include biometric security (with a particular focus on biometric template protection), information theory, pattern recognition, and image processing. She is looking forward to joining forces with Idiap&#x2019;s talented researchers to find new and better ways of safeguarding people&#x2019;s security and privacy in our interconnected world.&lt;br/&gt;</description>
+      <iweb:image href="Media/object010_1.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/11/2_Vedrana_Krivokuca_is_joining_the_team.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>PostDoc position in biometric template protection</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/8/4_PostDoc_position_in_biometric_template_protection.html</link>
+      <guid isPermaLink="false">8a5a2a52-e6af-4414-b7ad-0e1b37f1d4f5</guid>
+      <pubDate>Thu, 4 Aug 2016 10:42:13 +0200</pubDate>
+      <description>The Idiap Research Institute ( &lt;a href="http://www.idiap.ch/"&gt;http://www.idiap.ch&lt;/a&gt; ) seeks qualified candidates for one PostDoc position in the field of biometric template protection. The research will be conducted in the context of Swiss Center for Biometrics Research and Testing ( &lt;a href="http://www.biometrics-center.ch/"&gt;www.biometrics-center.ch&lt;/a&gt; ).&lt;br/&gt;&lt;br/&gt;Broadly, the goal of template protection is to convert biometric data into a secure, non-invertible form. The overall goal of the position is to advance the state-of-the-art in template protection. Specifically, the research will:&lt;br/&gt;	&#x2022;	implement and evaluate baseline biometric encryption or cancelable biometrics techniques applied to face, voice and vein biometrics,&lt;br/&gt;	&#x2022;	investigate homomorphic encryption schemes for the above tasks.&lt;br/&gt;&lt;br/&gt;The proposed research will be carried out in the Biometrics group (Dr. Sebastien Marcel, &lt;a href="http://www.idiap.ch/~marcel"&gt;http://www.idiap.ch/~marcel&lt;/a&gt; ) at Idiap.&lt;br/&gt; &lt;br/&gt;The research will rely on previous knowledge and softwares developed at Idiap, more specifically Bob toolkit ( &lt;a href="http://idiap.github.io/bob/"&gt;http://idiap.github.io/bob/&lt;/a&gt; ). Reproducible research is a cornerstone of the project. Hence a strong involvement in open source libraries such as Bob are expected.&lt;br/&gt;&lt;br/&gt;The ideal candidate should hold a PhD degree in computer science, electrical engineering or related fields. She or he should have a background in statistics, applied mathematics, optimization, linear algebra and signal processing. The applicant should also have strong programming skills and be familiar with Python, C/C++ (MATLAB is not a plus), various scripting languages and with the Linux environment. Knowledge in cryptography and machine learning is an asset. Shortlisted candidate may undergo a series of tests including technical reading and writing in English and programming (in Python and/or C/C++). &lt;br/&gt;&lt;br/&gt;Appointment for the position is for 1 year but may be renewed provided successful progress and depending on funding opportunities. Salary on the first year starts at 80'000 CHF (gross salary). Starting date is immediate, late 2016 or early 2017.&lt;br/&gt;&lt;br/&gt;Application should be made online here: &lt;a href="http://www.idiap.ch/webapps/jobs/ors/applicant/position/index.php?PHP_APE_DR_9e581720b5ef40dc7af21c41bac4f4eb=%7B__TO%3D%27detail%27%3B__PK%3D%2710200%27%7D"&gt;http://www.idiap.ch/webapps/jobs/ors/applicant/position/index.php?PHP_APE_DR_9e581720b5ef40dc7af21c41bac4f4eb=%7B__TO%3D%27detail%27%3B__PK%3D%2710200%27%7D&lt;/a&gt; </description>
+      <iweb:image href="Media/object001.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/8/4_PostDoc_position_in_biometric_template_protection.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>New summertime group photo</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/8/3_New_summertime_group_photo.html</link>
+      <guid isPermaLink="false">1a6b19fa-d4d7-4766-a1b2-b686085cd5eb</guid>
+      <pubDate>Wed, 3 Aug 2016 17:15:59 +0200</pubDate>
+      <description>This is summertime and the biometric group changed in one year.&lt;br/&gt;&lt;br/&gt;For left to right: Tiago de Freitas Pereira, Olegs Nikisins, Hannah Muckenhirn, Sushil Bhattacharjee, Teodors Eglitis (down), S&#xE9;bastien Marcel, Pavel Korshunov (down), Guillaume Heusch, Alain Komaty, Amir Mohammadi and Andr&#xE9; Anjos.</description>
+      <iweb:image href="Media/object002_2.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/8/3_New_summertime_group_photo.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Ivana Chingovska received the EPFL PhD degree</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/5/2_Ivana_Chingovska_received_the_EPFL_PhD_degree.html</link>
+      <guid isPermaLink="false">1851bef1-ff79-4d3e-a31b-a7ef53df6757</guid>
+      <pubDate>Mon, 2 May 2016 17:10:27 +0200</pubDate>
+      <description>Ivana Chingovska received the PhD degree from EPFL on May 2nd 2016 after the public defense of her doctoral dissertation entitled: &amp;quot;Trustworthy Biometric Verification under Spoofing Attacks: Application to the Face Mode&amp;quot;.&lt;br/&gt;&lt;br/&gt;Her research was conducted in the framework of the TABULA RASA ( &lt;a href="http://www.tabularasa-euproject.org/"&gt;http://www.tabularasa-euproject.org&lt;/a&gt; ) and BEAT ( &lt;a href="http://www.beat-eu.org/"&gt;http://www.beat-eu.org&lt;/a&gt; ) projects and aimed to advance the state-of-the-art in biometric anti-spoofing now referred to as Presentation Attack Detection (PAD). Ivana proposed a solution to combine multiple biometric comparison sub-systems and PAD sub-systems with a new performance curve to evaluate the performance of biometrics in the presence or absence of presentation attacks. The work from Ivana is reproducible as it was established on public datasets and the Bob-based ( &lt;a href="http://idiap.github.io/bob/"&gt;http://idiap.github.io/bob/&lt;/a&gt; ) source code is available.&lt;br/&gt;&lt;br/&gt;To download Ivana's thesis, click on the following link: &lt;a href="http://publications.idiap.ch/downloads/papers/2016/Chingovska_THESIS_2015.pdf"&gt;Trustworthy Biometric Verification under Spoofing Attacks: Application to the Face Mode &lt;/a&gt;To download Ivana's thesis source, click on the following link: &lt;a href="https://pypi.python.org/pypi/bob.thesis.ichingo2015/0.0.1"&gt;https://pypi.python.org/pypi/bob.thesis.ichingo2015/0.0.1&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Congratulations to Dr. Ivana Chingovska !</description>
+      <iweb:image href="Media/object001_1.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/5/2_Ivana_Chingovska_received_the_EPFL_PhD_degree.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>A Reproducible Research Survey in Face Recognition</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/3/11_A_Reproducible_Research_Survey_in_Face_Recognition.html</link>
+      <guid isPermaLink="false">c688fa79-1b24-41ba-9f7d-d21ac0be8c75</guid>
+      <pubDate>Fri, 11 Mar 2016 08:24:18 +0100</pubDate>
+      <description>Idiap published a book chapter entitled &#x201C;Face Recognition in Challenging Environments: An Experimental and Reproducible Research Survey&#x201D; appearing in the Springer book &#x201C;Face Recognition Across the Imaging Spectrum&#x201D;.&lt;br/&gt;&lt;br/&gt;Face Recognition in Challenging Environments: An Experimental and Reproducible Research Survey&lt;br/&gt;Manuel&#xA0;G&#xFC;nther, Laurent&#xA0;El&#xA0;Shafey, S&#xE9;bastien&#xA0;Marcel&lt;br/&gt;&lt;a href="http://link.springer.com/book/10.1007/978-3-319-28501-6"&gt;Face Recognition Across the Imaging Spectrum&lt;/a&gt;&lt;br/&gt;pp 247-280&lt;br/&gt;&lt;br/&gt;This publication deals with face recognition in mobile and other challenging environments, where both still images and&#xA0;video sequences are examined. We provide an experimental study of one commercial of-the-shelf and four recent open-source face&#xA0;recognition algorithms. A short summary of the study is that there is not a single algorithm&#xA0;that works best in all cases and for all applications.&lt;br/&gt;&lt;br/&gt;Experiment results from this book chapter can be reproduced using the distributed source code (&#xA0;&lt;a href="http://pythonhosted.org/bob.chapter.FRICE/"&gt;http://pythonhosted.org/bob.chapter.FRICE/&lt;/a&gt;&#xA0;) and the Bob library ( &lt;a href="http://idiap.github.io/bob/"&gt;http://idiap.github.io/bob/&lt;/a&gt;&#xA0;).&lt;br/&gt;&lt;br/&gt;More details in:&lt;br/&gt;&lt;a href="http://publications.idiap.ch/downloads/papers/2016/Gunther_SPRINGER_2016.pdf"&gt;http://publications.idiap.ch/downloads/papers/2016/Gunther_SPRINGER_2016.pdf&lt;/a&gt;&lt;br/&gt;</description>
+      <iweb:image href="Media/object002_3.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/3/11_A_Reproducible_Research_Survey_in_Face_Recognition.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Open Source Release of the BEAT Platform</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/3/4_Open_Source_Release_of_the_BEAT_Platform.html</link>
+      <guid isPermaLink="false">dd9cf94e-e465-4d9f-82eb-6387c955b7ac</guid>
+      <pubDate>Fri, 4 Mar 2016 07:57:40 +0100</pubDate>
+      <description>After 4 years of development, the BEAT platform is now available for download as an open-source project, under the Affero GNU GPL version 3. It is composed of 6 packages which can be reached on this gitlab group repository, hosted at Idiap:&lt;br/&gt;&lt;br/&gt;&lt;a href="https://gitlab.idiap.ch/beat"&gt;https://gitlab.idiap.ch/beat&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;To get started, download the package &amp;quot;beat.web&amp;quot; and read its README.rst file located on its root for quick start instructions:&lt;br/&gt;&lt;br/&gt;git clone&#xA0;&lt;a href="https://gitlab.idiap.ch/beat/beat.web"&gt;https://gitlab.idiap.ch/beat/beat.web&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;In case of issues, please share your questions through our mailing list (&lt;a href="https://groups.google.com/forum/#!forum/beat-devel"&gt;https://groups.google.com/forum/#!forum/beat-devel&lt;/a&gt;).&lt;br/&gt;&lt;br/&gt;The project totals ~80'000 lines of code split this way:&lt;br/&gt;Python: 58%&lt;br/&gt;Javascript: 24%&lt;br/&gt;HTML: 15%&lt;br/&gt;CSS: 3%&lt;br/&gt;&lt;br/&gt;It makes heavy use of other open-source projects (such as Django or Twisted) and builds on the top of these frameworks to create the experience you'll find through the web application (e.g.&#xA0;&lt;a href="https://www.beat-eu.org/platform/"&gt;https://www.beat-eu.org/platform/&lt;/a&gt;).&lt;br/&gt;&lt;br/&gt;The Idiap instance of the platform is now updated with the software available on the link above. Let us know if you have issues accessing that link.&lt;br/&gt;&lt;br/&gt;Authors:&lt;br/&gt;Andre Anjos &amp;lt;&lt;a href="mailto:andre.anjos@idiap.ch/"&gt;andre.anjos@idiap.ch&lt;/a&gt;&gt;&lt;br/&gt;Flavio Tarsetti &amp;lt;&lt;a href="mailto:flavio.tarsetti@idiap.ch/"&gt;flavio.tarsetti@idiap.ch&lt;/a&gt;&gt;&lt;br/&gt;Laurent El-Shafey &amp;lt;&lt;a href="mailto:laurent.el-shafey@idiap.ch/"&gt;laurent.el-shafey@idiap.ch&lt;/a&gt;&gt;&lt;br/&gt;Philip Abbet &amp;lt;&lt;a href="mailto:philip.abbet@idiap.ch/"&gt;philip.abbet@idiap.ch&lt;/a&gt;&gt;&lt;br/&gt;Samuel Gaist &amp;lt;&lt;a href="mailto:samuel.gaist@idiap.ch/"&gt;samuel.gaist@idiap.ch&lt;/a&gt;&gt;&lt;br/&gt;Sebastien Marcel &amp;lt;&lt;a href="mailto:sebastien.marcel@idiap.ch/"&gt;sebastien.marcel@idiap.ch&lt;/a&gt;&gt;&lt;br/&gt;&lt;br/&gt;Acknowledgements: To all partners of the BEAT project, for being so supportive in the development of this wonderful tool. Thanks to all!&lt;br/&gt;&lt;br/&gt;Andr&#xE9; and S&#xE9;bastien</description>
+      <iweb:image href="Media/object002_4.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/3/4_Open_Source_Release_of_the_BEAT_Platform.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>New patent on vein anti-spoofing (PAD)</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/2/22_New_patent_on_vein_anti-spoofing_%28PAD%29.html</link>
+      <guid isPermaLink="false">3b044b06-22b8-4c61-bcd5-a348916f56a2</guid>
+      <pubDate>Mon, 22 Feb 2016 08:16:22 +0100</pubDate>
+      <description>Idiap published on Feb 18 2016 a PCT patent on biometric vein anti-spoofing (also called presentation attack detection) under the reference WO/2016/023582.&lt;br/&gt;&lt;br/&gt;(WO2016023582) &lt;a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016023582&amp;recNum=73&amp;docAn=EP2014067290&amp;queryString=&amp;maxRec=2797947"&gt;A METHOD OF DETECTING A FALSIFIED PRESENTATION TO A VASCULAR RECOGNITION SYSTEM&lt;/a&gt; &lt;br/&gt;</description>
+      <iweb:image href="Media/object002_5.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/2/22_New_patent_on_vein_anti-spoofing_%28PAD%29.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Teodors Eglitis is joining the team</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/2/22_Teodors_Eglitis_is_joining_the_team.html</link>
+      <guid isPermaLink="false">e1f5d748-09f5-4316-9f50-429d0920ac08</guid>
+      <pubDate>Mon, 22 Feb 2016 07:59:19 +0100</pubDate>
+      <description>Teodors Eglitis is joining the &lt;a href="../Research_Team/Research_Team.html"&gt;biometrics group at Idiap&lt;/a&gt; in June to work on the BIOWAVE project.&lt;br/&gt;&lt;br/&gt;Welcome Teodors !&lt;br/&gt;&lt;br/&gt;Teodors Eglitis obtained an MSc degree in electronics from Riga Technical University, Riga, Latvia in 2014. For his master thesis &#x201C;Development of techniques for system with palm biometric feature extraction facilities&#x201D; he developed palm&#x2019;s vein and crease detection filters for a bi-modal biometric system. It was done while working at Institute of Electronics and Computer Science. There he worked in Digital Signal Processing Lab since 2011 as electronics engineer and researcher. Teodors mainly worked on the algorithm development for the palm biometric system and their implementation on FPGA. His research interests are in the area of palm biometrics, digital signal and image processing, embedded system design. Currently Teodors is working on his PhD thesis.</description>
+      <iweb:image href="Media/object002_6.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/2/22_Teodors_Eglitis_is_joining_the_team.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Ali Komaty is joining the team</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/2/19_Ali_Komaty_is_joining_the_team.html</link>
+      <guid isPermaLink="false">e45d7bca-fb22-4044-a3b0-21fff4de2fd2</guid>
+      <pubDate>Fri, 19 Feb 2016 08:30:11 +0100</pubDate>
+      <description>Ali Komaty is joining the &lt;a href="../Research_Team/Research_Team.html"&gt;biometrics group at Idiap&lt;/a&gt; in March to work on the ODESSA project.&lt;br/&gt;&lt;br/&gt;Welcome Ali !&lt;br/&gt;&lt;br/&gt;Ali Komaty received his PhD from the French Naval Academy Research Institute (IRENav), in Brest, France in 2014. His primary research where on statistical signal processing, where he studied the performances and limits of the Empirical Mode Decomposition when facing correlated noise (fractional Gaussian noise) and impulsive noise (alpha-stable noise). During his PhD, he has established research collaborations with the American University of Washington and FEMTO-ST Besan&#xE7;on, France.&lt;br/&gt;After receiving his PhD, he worked with the passive acoustics (AP) department of the ENSTA Bretagne, Brest, France as a postdoctoral researcher. His research focused on inverse problems, more precisely on whales depth and range estimation using only one hydrophone, where he used modal propagation theory, time-frequency warping and filtering to achieve depth discrimination. His work was on collaboration with the university of California at San Diego.</description>
+      <iweb:image href="Media/object006_1.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/2/19_Ali_Komaty_is_joining_the_team.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Olegs Nikisins is joining the team</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/1/26_Olegs_Nikisins_is_joining_the_team.html</link>
+      <guid isPermaLink="false">ca34d191-4ff0-47ee-80db-228d0e2e81fb</guid>
+      <pubDate>Tue, 26 Jan 2016 09:33:57 +0100</pubDate>
+      <description>Olegs Nikisins is joining the &lt;a href="../Research_Team/Research_Team.html"&gt;biometrics group at Idiap&lt;/a&gt; in March to work on the BIOWAVE project.&lt;br/&gt;&lt;br/&gt;Welcome Olegs !&lt;br/&gt;&lt;br/&gt;Olegs Nikisins obtained his Ph.D. in Electrical Engineering from Riga Technical University &amp;amp; Institute of Electronics and Computer Science (IECS) in 2013, where he  worked as a researcher (2007-2016, IECS, Riga, Latvia). His primary research and development experience is related to Computer Vision and Machine Learning techniques with application to biometrics (&lt;a href="http://bite.edi.lv/"&gt;http://bite.edi.lv&lt;/a&gt;/) (face recognition, multi-modal biometrics, recognition of palm veins and ridges), medical imaging and other industry oriented tasks. &lt;br/&gt;After receiving a PhD Olegs carried out a research in Aalborg University (AAU, Denmark) in the field of multi-modal face recognition. In AAU he collected a database of synchronized RGB, 3D and Thermal facial images and designed a three-modal face recognition system / algorithm. &lt;br/&gt;Besides biometric-related research Olegs participated in various Computer Vision based projects: segmentation of blood vessels in medical scans of the lungs, recognition of traffic signs, real time recognition of playing cards, design of control system for manufacturing of electronic components.</description>
+      <iweb:image href="Media/object005.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/1/26_Olegs_Nikisins_is_joining_the_team.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>BTAS 2016 Speaker Anti-spoofing Competition</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/1/20_BTAS_2016_Speaker_Anti-spoofing_Competition.html</link>
+      <guid isPermaLink="false">f40f877b-6e85-408f-b785-250ad342376c</guid>
+      <pubDate>Wed, 20 Jan 2016 08:44:01 +0100</pubDate>
+      <description>The Swiss Centre for Biometrics Research and Testing and the Biometric group at Idiap Research Institute organize the Speaker Anti-spoofing competition. The competition will be part of the IEEE 8th International Conference on Biometrics: Theory, Applications, and Systems (BTAS 2016), which will be held on September 6-9, 2016 in Niagara Falls, Buffalo, New York (USA). &lt;br/&gt;&lt;br/&gt;For more details about the competition and on how to register, please click on the following link : &lt;a href="http://www.biometrics-center.ch/testing/btas-2016-speaker-anti-spoofing"&gt;BTAS 2016 Speaker Anti-spoofing Competition&lt;/a&gt;.</description>
+      <iweb:image href="Media/object004.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/1/20_BTAS_2016_Speaker_Anti-spoofing_Competition.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>EAB Symposium on Presentation Attack Detection</title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/1/20_EAB_Symposium_on_Presentation_Attack_Detection.html</link>
+      <guid isPermaLink="false">5728deef-137e-4d22-b19b-5d37c12935c3</guid>
+      <pubDate>Wed, 20 Jan 2016 08:39:23 +0100</pubDate>
+      <description>The European Association for Biometrics (&lt;a href="http://www.eab.org/"&gt;EAB&lt;/a&gt;) organized its annual Symposium in Martigny Switzerland on Jan 19 2016 afternoon after the meetings of the ISO/IEC JTC1 SC37 Biometrics.&lt;br/&gt;&#xA0;&lt;br/&gt;The Symposium focused on Presentation Attacks and Presentation Attack Detection (&#xA0;&lt;a href="http://www.eab.org/events/program/108"&gt;http://www.eab.org/events/program/108&lt;/a&gt;&#xA0;).&#xA0;&lt;br/&gt;&#xA0;&lt;br/&gt;The Symposium also revealed the two main outcomes of the European &lt;a href="https://www.beat-eu.org/"&gt;BEAT&lt;/a&gt; project:&lt;br/&gt;	&#x2022;	 a methodology for Common Criteria evaluations of biometric systems,&lt;br/&gt;	&#x2022;	 the &lt;a href="https://www.beat-eu.org/platform/"&gt;BEAT platform&lt;/a&gt; as a tool for the characterization of biometric performance.&lt;br/&gt;&lt;br/&gt;</description>
+      <iweb:image href="Media/object003.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/1/20_EAB_Symposium_on_Presentation_Attack_Detection.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>ISO SC37 Biometrics at Idiap in Martigny </title>
+      <link>http://smarcel.ch/professional/Research_Blog/Entries/2016/1/20_ISO_SC37_Biometrics_at_Idiap_in_Martigny.html</link>
+      <guid isPermaLink="false">45dd9fe4-c2b2-4de2-af90-fa5f58f15d8d</guid>
+      <pubDate>Wed, 20 Jan 2016 08:31:37 +0100</pubDate>
+      <description>The Idiap Research Institute in Martigny received last week ISO delegates from all around the world to work on ISO standards in biometrics ( &lt;a href="http://www.iso.org/iso/iso_technical_committee.html?commid=313770"&gt;http://www.iso.org/iso/iso_technical_committee.html?commid=313770&lt;/a&gt; ).&lt;br/&gt;&lt;br/&gt;More information here: &lt;a href="http://www.biometrics-center.ch/jtc1-sc37-martigny2015"&gt;ISO SC37 Biometrics - Martigny meetings&lt;/a&gt;</description>
+      <iweb:image href="Media/object001.png"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://smarcel.ch/professional/Research_Blog/Entries/2016/1/20_ISO_SC37_Biometrics_at_Idiap_in_Martigny.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>http://smarcel.ch/professional/Research_Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>20</iweb:maximumSummaryItems>
+  </channel>
+</rss>

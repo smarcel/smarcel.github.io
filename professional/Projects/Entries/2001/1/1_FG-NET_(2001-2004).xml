@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8ED417F9-5D4A-4C60-8247-816C86E846FA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:21 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>EU FP5 FG-NET</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;FG-NET&#x2028;&#x201C;Face and Gesture Recognition Working Group&#x201D;&#x2028;&lt;/b&gt;&lt;b&gt;&lt;a href="http://www-prima.inrialpes.fr/FGnet/html/home.html"&gt;http://www-prima.inrialpes.fr/FGnet/html/home.html&lt;/a&gt;&lt;/b&gt;&lt;b&gt; &#xD;&lt;/b&gt;&#xD;Post-Doc research on face recognition and gesture recognition using Input-Output Hidden Markov Models.&#xD;&#xD;&lt;a href="http://cordis.europa.eu/project/rcn/60980_en.html"&gt;http://cordis.europa.eu/project/rcn/60980_en.html&lt;/a&gt;&#xD;&#xD;Some outcomes:&#xD;	&#x2022;	benchmarks: &lt;a href="http://www-prima.inrialpes.fr/FGnet/html/benchmarks.html"&gt;http://www-prima.inrialpes.fr/FGnet/html/benchmarks.html&lt;/a&gt;&#xD;	&#x2022;	age estimation: &lt;a href="http://fipa.cs.kit.edu/433.php"&gt;http://fipa.cs.kit.edu/433.php&lt;/a&gt; &#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday 1 January 2001</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>FG-NET (2001-2004)</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_FG-NET_%282001-2004%29_files/shapeimage_2.png" left="0px" top="0px" width="210px" height="224px"/>
+</content>

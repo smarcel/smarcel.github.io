@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:16 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Idiap Award 2013</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;a href="http://www.idiap.ch/~lelshafey/"&gt;Laurent El-Shafey&lt;/a&gt;, a member of the &lt;a href="http://www.idiap.ch/~marcel/professional/Research_Team.html"&gt;Biometrics group&lt;/a&gt;, received the Idiap PhD Student Research Award 2013 for his excellence in "Reproducible machine learning applied to face and speaker recognition".&#xD;&#xD;Congratulations to Laurent.&#xD;&#xD;More information can be found &lt;a href="http://www.idiap.ch/scientific-research/awards"&gt;here&lt;/a&gt;.&#x2028;&#x2028;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday 18 December 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Idiap PhD Student Research Award 2013</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Idiap_PhD_Student_Research_Award_2013_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

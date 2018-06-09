@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:30 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>EAB Symposium on PAD</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The European Association for Biometrics (&lt;a href="http://www.eab.org/"&gt;EAB&lt;/a&gt;) organized its annual Symposium in Martigny Switzerland on Jan 19 2016 afternoon after the meetings of the ISO/IEC JTC1 SC37 Biometrics.&#xD;&#xA0;&#xD;The Symposium focused on Presentation Attacks and Presentation Attack Detection (&#xA0;&lt;a href="http://www.eab.org/events/program/108"&gt;http://www.eab.org/events/program/108&lt;/a&gt;&#xA0;).&#xA0;&#xD;&#xA0;&#xD;The Symposium also revealed the two main outcomes of the European &lt;a href="https://www.beat-eu.org/"&gt;BEAT&lt;/a&gt; project:&#xD;	&#x2022;	 a methodology for Common Criteria evaluations of biometric systems,&#xD;	&#x2022;	 the &lt;a href="https://www.beat-eu.org/platform/"&gt;BEAT platform&lt;/a&gt; as a tool for the characterization of biometric performance.&#xD;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday 20 January 2016</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>EAB Symposium on Presentation Attack Detection</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_EAB_Symposium_on_Presentation_Attack_Detection_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:34 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Anjith George is joining the team</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Anjith George is joining the &lt;a href="perma://BLPageReference/7D406E27-423E-4685-8800-C4C4791B5191"&gt;Biometrics group&lt;/a&gt; at Idiap in October 2017 as a postdoc.&#xD;&#xD;Welcome Anjith !&#xD;&#xD;Anjith&#xA0; George is currently pursuing Ph.D. from a Department of Electrical Engineering, IIT Kharagpur, India.&#xA0; His thesis work focuses on image-based eye gaze tracking and its applications such as biometric identification and activity recognition. He has developed algorithms for low-cost eye gaze tracking in desktop as well as wearable scenarios. He has proposed and implemented a novel eye movement based biometrics identification algorithm. In his master's work, he has developed algorithms for driver drowsiness detection in automotive environments.&#xD;&#xD;His current research interests include Computer vision,&#xA0; deep learning, biometrics, and image processing. He is gearing up to work on secured face recognition where spoofing attacks can be preemptively addressed.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday 1 September 2017</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Anjith George is joining the team</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_Anjith_George_is_joining_the_team_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

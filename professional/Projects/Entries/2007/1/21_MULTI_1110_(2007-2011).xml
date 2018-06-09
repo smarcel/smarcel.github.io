@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="8ED417F9-5D4A-4C60-8247-816C86E846FA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:23 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>SNSF MULTI 1110</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;MULTI 1110&#x2028;&#x201C;Joint Bi-Modal Person Authentication"&#x2028;    &#xD;&lt;/b&gt;Research on face and speaker recognition using binary features.&#xD;&#xD;.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Sunday 21 January 2007</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>MULTI 1110 (2007-2011)</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="21_MULTI_1110_%282007-2011%29_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="103px"/>
+</content>

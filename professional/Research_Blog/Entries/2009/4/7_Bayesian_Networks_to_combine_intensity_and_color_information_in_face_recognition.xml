@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:45 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We present generative models dedicated to face recognition. Our models consider data extracted from color face images and use Bayesian Networks to model relationships between di&#xFB00;erent observations derived from a single face. Speci&#xFB01;cally, the use of color as a complementary observation to local, grayscale-based features is investigated. &#xD;&#xD;This is done by means of new generative models, combining color and grayscale information in a principled way. Color is either incorporated at the global face level, at the local facial feature level, or at both levels. Experiments on the face authentication task are conducted on two benchmark databases, XM2VTS and BANCA. Obtained results show that integrating color in an intelligent manner improves the performance over a similar baseline system acting on grayscale only, but also over an Eigenfaces-based system were information from di&#xFB00;erent color channels are treated independently.&#xD;&#xD;G. Heusch and S. Marcel.&lt;b&gt; &lt;/b&gt;&lt;i&gt;&#x201C;Bayesian networks to combine intensity and color information in face recognition&#x201D;&lt;/i&gt;. In IEEE IAPR International Conference on Biometrics (&lt;b&gt;ICB&lt;/b&gt;), 2009.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mardi, 7 avril 2009</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Bayesian Networks to combine intensity and color information in face recognition</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_Bayesian_Networks_to_combine_intensity_and_color_information_in_face_recognition_files/shapeimage_2.png" left="0px" top="0px" width="447px" height="224px"/>
+</content>

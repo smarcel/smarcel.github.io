@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:23 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Tutorial TABULA RASA ICB 2015</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I will give a tutorial on spoofing and anti-spoofing during the International Conference on Biometrics ( &lt;a href="http://icb2015.org"&gt;http://icb2015.org&lt;/a&gt; ) that will be held in Phuket, Thailand on May 19-22 2015.&#xD;&#xD;This tutorial presented the main research outcome of the TABULA RASA project. &lt;a href="http://www.tabularasa-euproject.org"&gt;TABULA RASA&lt;/a&gt; (Trusted Biometrics under Spoofing Attacks) is a European funded project (&lt;a href="http://cordis.europa.eu/fp7/home_en.html"&gt;7th Framework Program&lt;/a&gt;) that is addressing some of the issues of direct (spoofing) attacks to trusted biometric systems. This is an issue that needs to be addressed urgently because it has recently been shown that conventional biometric techniques, such as fingerprints and face, are vulnerable to direct (spoofing) attacks.&#xD;&#xD;More information &lt;a href="perma://BLPageReference/9BB9AD15-C95E-42BD-BEFE-35859F74D898"&gt;HERE&lt;/a&gt;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mardi, 12 mai 2015</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Tutorial on Spoofing and Anti-Spoofing at ICB 2015</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Tutorial_on_Spoofing_and_Anti-Spoofing_at_ICB_2015_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

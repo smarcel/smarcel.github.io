@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:07 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Spoofing Challenge 2013</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Tabula Rasa Spoofing Challenge invites researchers to develop ingenious attack plans and to deceive various biometric authentications systems of different modalities. It will take place in ICB 2013:&#xD;The 6th IAPR/IEEE International Conference on Biometrics&#xD;(&lt;a href="http://atvs.ii.uam.es/icb2013/"&gt;http://atvs.ii.uam.es/icb2013/&lt;/a&gt;) June 4-7, 2013 Madrid SPAIN&#xD;&#xD;More information at:&#xD;&lt;a href="http://www.tabularasa-euproject.org/evaluations/tabula-rasa-spoofing-challenge-2013"&gt;http://www.tabularasa-euproject.org/evaluations/tabula-rasa-spoofing-challenge-2013&lt;/a&gt;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>dimanche, 27 janvier 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>TABULA RASA Spoofing Challenge @&#xA0;ICB 2013</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="27_TABULA_RASA_Spoofing_Challenge_%40ICB_2013_files/shapeimage_2.png" left="0px" top="0px" width="200px" height="268px"/>
+</content>

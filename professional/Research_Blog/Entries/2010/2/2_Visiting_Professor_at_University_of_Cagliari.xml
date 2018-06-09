@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:47 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText/>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I just completed by visiting Professor at the University of Cagliari in the &lt;a href="http://prag.diee.unica.it/pra/eng/home"&gt;Pattern Recognition and Applications group of Prof Fabio Roli&lt;/a&gt;. I had the chance to give a series on lectures on Face Processing. I also visited the wonderful Polaris Technology Park of &lt;a href="http://www.sardegnaricerche.it/en/technologypark/"&gt;Sardegna Ricerche&lt;/a&gt; in Pula.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mardi, 2 f&#xE9;vrier 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Visiting Professor at University of Cagliari</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Visiting_Professor_at_University_of_Cagliari_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:31 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Voice Anti-Spoofing Competition</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The Swiss Centre for Biometrics Research and Testing and the Biometric group at Idiap Research Institute organize the Speaker Anti-spoofing competition. The competition will be part of the IEEE 8th International Conference on Biometrics: Theory, Applications, and Systems (BTAS 2016), which will be held on September 6-9, 2016 in Niagara Falls, Buffalo, New York (USA). &#xD;&#xD;For more details about the competition and on how to register, please click on the following link : &lt;a href="http://www.biometrics-center.ch/testing/btas-2016-speaker-anti-spoofing"&gt;BTAS 2016 Speaker Anti-spoofing Competition&lt;/a&gt;.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday 20 January 2016</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>BTAS 2016 Speaker Anti-spoofing Competition</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_BTAS_2016_Speaker_Anti-spoofing_Competition_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>

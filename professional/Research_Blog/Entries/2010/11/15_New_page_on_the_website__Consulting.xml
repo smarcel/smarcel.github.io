@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:52 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Consulting</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I decided to add a specific page to list current or former &#x201C;&lt;a href="perma://BLPageReference/AF3C3DEF-5447-40DD-AF26-E8C5E34435E8"&gt;consulting&lt;/a&gt;&#x201D; activities, at least the one I can disclose !</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>lundi, 15 novembre 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New page on the website: Consulting</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_New_page_on_the_website__Consulting_files/shapeimage_2.png" left="0px" top="0px" width="343px" height="171px"/>
+</content>

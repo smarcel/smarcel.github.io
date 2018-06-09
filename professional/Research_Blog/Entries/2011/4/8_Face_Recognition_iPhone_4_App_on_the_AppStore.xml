@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:53 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Face Recognition iPhone App</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I am pleased to announce the release of &lt;b&gt;FaceOnIt&lt;/b&gt; the first iPhone App from the Idiap Research Institute available on the AppStore here:&#xD;&#xD;&lt;a href="http://itunes.apple.com/us/app/faceonit/id429435133?mt=8&amp;ls=1"&gt;FaceOnIt&lt;/a&gt;&#xD;&#xD;FaceOnIt implements a face recognition technology, with the aim to demonstrate the use of this technology on a mobile device. It allows to enroll the face of a user and to verify that the user facing the camera is the one enrolled.&#x2028;&#x2028;FaceOnIt is the output of the project MOBIO (&lt;a href="http://www.mobioproject.org"&gt;http://www.mobioproject.org&lt;/a&gt;) which developed new mobile services secured with biometrics. Such services include accessing the device itself, Apps or private data on the device, or online services.&#x2028;&#x2028;FaceOnIt is powered by a face recognition Software Development Kit (SDK) developed at the Idiap research institute (&lt;a href="http://www.idiap.ch"&gt;http://www.idiap.ch&lt;/a&gt;) in Switzerland.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>vendredi, 8 avril 2011</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Face Recognition iPhone 4 App on the AppStore</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Face_Recognition_iPhone_4_App_on_the_AppStore_files/shapeimage_2.png" left="0px" top="0px" width="193px" height="275px"/>
+</content>

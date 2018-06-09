@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:08 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Short course on BOB available</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Thanks to Andr&#xE9;, Manuel, Laurent and Bastien, the videos (with Synchronized slides) of the short course on BOB with Hands-On is available on YouTube.&#xD;&lt;&lt;a href="http://www.youtube.com/watch?v=9r3PRmo7tvw&amp;list=PLnVVneF9m0ogxI-I54Xzul7NnL6us7hNy"&gt;HERE&lt;/a&gt;&gt;&#xD;This short course on BOB ( &lt;a href="https://github.com/idiap/bob/wiki/Bob-Starter-Course"&gt;https://github.com/idiap/bob/wiki/Bob-Starter-Course&lt;/a&gt; ) is an introductory course on Python, Bob and Scientific Software Management. &#xD;&#xD;BOB will be used for the labs of the EPFL course &#x201C;Fundamentals in Statistical Pattern Recognition&#x201D; &lt;a href="perma://BLPageReference/6AC2AF6D-F5E2-4D30-AD4C-27AE9951244D"&gt;HERE&lt;/a&gt;.&#xD;&#xD;More information on BOB:&#xD;	&#x2022;	 BOB: &lt;a href="http://idiap.github.com/bob/"&gt;http://idiap.github.com/bob/&lt;/a&gt;&#xD;&#xD; </richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mardi, 19 f&#xE9;vrier 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Short course on BOB with Hands-On on YouTube</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="19_Short_course_on_BOB_with_Hands-On_on_YouTube_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="200px"/>
+</content>

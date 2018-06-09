@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
+  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:09 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>MOBIO competition on face recognition</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Idiap organized the &lt;b&gt;2nd competition on face recognition in mobile environment using the MOBIO database&lt;/b&gt; in conjunction with The 6th IAPR/IEEE International Conference on Biometrics (&lt;a href="http://atvs.ii.uam.es/icb2013/"&gt;http://atvs.ii.uam.es/icb2013/&lt;/a&gt;) June 4-7, 2013 Madrid SPAIN.&#xD;&#xD;The competition is now closed, results from the competition will be presented at the conference and available in the proceedings:&#xD;M.&#xA0;G&#xFC;nther, A.&#xA0;Costa-Pazo, C.&#xA0;Ding, E.&#xA0;Boutellaa, G.&#xA0;Chiachia, H.&#xA0;Zhang, M.&#xA0;de&#xA0;Assis&#xA0;Angeloni, V.&#xA0;~Struc, E.&#xA0;Khoury, E.&#xA0;Vazquez-Fernandez, D.&#xA0;Tao, M.&#xA0;Bengherabi, D.&#xA0;Cox, S.&#xA0;Kiranyaz, T.&#xA0;de&#xA0;Freitas&#xA0;Pereira, J.&#xA0;~Zganec-Gros, E.&#xA0;Argones-R&#xFA;a, N.&#xA0;Pinto, M.&#xA0;Gabbouj, F.&#xA0;Sim oes, S.&#xA0;Dobri&#x161;ek, D.&#xA0;Gonz&#xE1;lez-Jim&#xE9;nez, A.&#xA0;Rocha, M.&#xA0;Uliani Neto, N.&#xA0;Pave&#x161;i&#x107;, A.&#xA0;Falc ao, R.&#xA0;Violato, and S.&#xA0;Marcel. &lt;b&gt;The 2013 face recognition evaluation in MOBIO environment&lt;/b&gt;. In IAPR International Conference on Biometrics (ICB), 2013. (to appear).&#xD;&#xD;More information at: &lt;a href="http://www.beat-eu.org/evaluations/icb-2013-face-recognition-mobio"&gt;http://www.beat-eu.org/evaluations/icb-2013-face-recognition-mobio&lt;/a&gt;&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>mercredi, 24 avril 2013</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The 2nd competition on face recognition in mobile environment using the MOBIO database</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_The_2nd_competition_on_face_recognition_in_mobile_environment_using_the_MOBIO_database_files/shapeimage_2.png" left="0px" top="0px" width="356px" height="275px"/>
+</content>
