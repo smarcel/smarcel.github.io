@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="F27D61BF-0911-4E7F-94E4-A327692575EA">
-  <lastEdited clientType="local-build-20180609" date="2018-06-09 11:00:08 +0000"/>
+  <lastEdited clientType="local-build-20180610" date="2018-06-10 15:37:13 +0000"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>Labs 1 and 2 available</richText>
   </textBox>

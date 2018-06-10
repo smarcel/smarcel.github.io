@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:502F6774-6113-46DC-BDAC-158DC7932B9D</id>
  <title>Page list Atom feed</title>
- <updated>2018-06-09T12:59:20+02:00</updated>
+ <updated>2018-06-10T17:36:15+02:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Welcome</title>
   <in-navbar xmlns="urn:iweb:">02EF4684-2B81-440F-9FC8-DFBE258AC30D</in-navbar>
   <link rel="alternate" href="Welcome.html"/>
-  <updated>2018-06-09T12:59:20.001+02:00</updated>
+  <updated>2018-06-10T17:36:15.001+02:00</updated>
   <content>Welcome</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Curriculum Vitea</title>
   <in-navbar xmlns="urn:iweb:">F1966C6C-D37E-4AF0-9022-6A2C542C900F</in-navbar>
   <link rel="alternate" href="Curriculum_Vitea.html"/>
-  <updated>2018-06-09T12:59:20.002+02:00</updated>
+  <updated>2018-06-10T17:36:15.002+02:00</updated>
   <content>Curriculum Vitea</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">Publications</title>
   <in-navbar xmlns="urn:iweb:">2B6464A9-52CA-4608-A115-78822185FD13</in-navbar>
   <link rel="alternate" href="Publications.html"/>
-  <updated>2018-06-09T12:59:20.003+02:00</updated>
+  <updated>2018-06-10T17:36:15.003+02:00</updated>
   <content>Publications</content>
  </entry>
  <entry>
@@ -68,7 +68,7 @@
   <title xmlns="urn:iweb:">Talks</title>
   <in-navbar xmlns="urn:iweb:">5AB3BF1B-79FB-434C-8FA3-FE92BEF1C886</in-navbar>
   <link rel="alternate" href="Talks.html"/>
-  <updated>2018-06-09T12:59:20.004+02:00</updated>
+  <updated>2018-06-10T17:36:15.004+02:00</updated>
   <content>Talks</content>
  </entry>
  <entry>
@@ -77,7 +77,7 @@
   <title xmlns="urn:iweb:">Lectures and Labs</title>
   <in-navbar xmlns="urn:iweb:">A89CD476-7210-427C-824D-DD79D5B9344D</in-navbar>
   <link rel="alternate" href="Lectures_and_Labs.html"/>
-  <updated>2018-06-09T12:59:20.005+02:00</updated>
+  <updated>2018-06-10T17:36:15.005+02:00</updated>
   <content>Lectures and Labs</content>
  </entry>
  <entry>
@@ -86,7 +86,7 @@
   <title xmlns="urn:iweb:">UNIL BIOMETRICS 2018</title>
   <in-navbar xmlns="urn:iweb:">763A0C46-3C54-435A-AD9C-5313727B4ED6</in-navbar>
   <link rel="alternate" href="UNIL_BIOMETRICS_2018.html"/>
-  <updated>2018-06-09T12:59:20.006+02:00</updated>
+  <updated>2018-06-10T17:36:15.006+02:00</updated>
   <content>UNIL BIOMETRICS 2018</content>
  </entry>
  <entry>
@@ -95,7 +95,7 @@
   <title xmlns="urn:iweb:">EPFL FSPR 2019</title>
   <in-navbar xmlns="urn:iweb:">D5D51C9E-BA3A-46A0-A124-4A032A8648C1</in-navbar>
   <link rel="alternate" href="EPFL_FSPR_2019.html"/>
-  <updated>2018-06-09T12:59:20.007+02:00</updated>
+  <updated>2018-06-10T17:36:15.007+02:00</updated>
   <content>EPFL FSPR 2019</content>
  </entry>
  <entry>
@@ -104,25 +104,7 @@
   <title xmlns="urn:iweb:">Handbook of Biometric Anti-Spoofing 2</title>
   <in-navbar xmlns="urn:iweb:">1214371B-BF05-4CB8-9106-5E50F5B72764</in-navbar>
   <link rel="alternate" href="Handbook_of_Biometric_Anti-Spoofing_2.html"/>
-  <updated>2018-06-09T12:59:20.008+02:00</updated>
+  <updated>2018-06-10T17:36:15.008+02:00</updated>
   <content>Handbook of Biometric Anti-Spoofing 2</content>
- </entry>
- <entry>
-  <id>urn:iweb:FB81FE63-A1FA-4734-B84B-F7AE0FB0469B</id>
-  <title>Resources</title>
-  <title xmlns="urn:iweb:">Resources</title>
-  <in-navbar xmlns="urn:iweb:">FB81FE63-A1FA-4734-B84B-F7AE0FB0469B</in-navbar>
-  <link rel="alternate" href="Resources.html"/>
-  <updated>2018-06-09T12:59:20.009+02:00</updated>
-  <content>Resources</content>
- </entry>
- <entry>
-  <id>urn:iweb:BE4CDEA0-EDC9-4B48-935A-D55E8310C75C</id>
-  <title>Demonstrations</title>
-  <title xmlns="urn:iweb:">Demonstrations</title>
-  <in-navbar xmlns="urn:iweb:">BE4CDEA0-EDC9-4B48-935A-D55E8310C75C</in-navbar>
-  <link rel="alternate" href="Demonstrations/Demonstrations.html"/>
-  <updated>2018-06-09T12:59:20.010+02:00</updated>
-  <content>Demonstrations</content>
  </entry>
 </feed>

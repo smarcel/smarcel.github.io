@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="AC642035-7472-45A7-A869-1DFF61502373">
-  <lastEdited clientType="local-build-20180609" date="2018-06-09 10:59:36 +0000"/>
+  <lastEdited clientType="local-build-20180610" date="2018-06-10 15:36:31 +0000"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>Group photo</richText>
   </textBox>
