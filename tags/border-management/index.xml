@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Border Management | Professional website of Sébastien Marcel</title><link>https://smarcel.ch/tags/border-management/</link><atom:link href="https://smarcel.ch/tags/border-management/index.xml" rel="self" type="application/rss+xml"/><description>Border Management</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://smarcel.ch/media/icon_hu_903cac8985788c1d.png</url><title>Border Management</title><link>https://smarcel.ch/tags/border-management/</link></image><item><title>CARMEN</title><link>https://smarcel.ch/project/active/carmen/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/active/carmen/</guid><description>&lt;p&gt;CARMEN develops biometric solutions for &lt;strong&gt;non-stop border control&lt;/strong&gt; for both
+pedestrians and vehicles in uncontrolled environments.&lt;/p&gt;
+&lt;p&gt;The project addresses the practical difficulties of &amp;ldquo;on-the-move&amp;rdquo; biometrics,
+including lower-quality live data, lack of time to read ePassports, and real
+operational constraints outside controlled indoor checkpoints. It aims to make
+biometric border technologies more accurate, reliable, and deployable in
+realistic large-scale scenarios.&lt;/p&gt;</description></item><item><title>PopEye</title><link>https://smarcel.ch/project/active/popeye/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/active/popeye/</guid><description>&lt;p&gt;PopEye develops robust privacy-preserving biometric technologies for passenger
+identification and verification at EU external borders.&lt;/p&gt;
+&lt;p&gt;The project addresses operational constraints such as open-air conditions,
+night-time acquisition, time pressure, and large-scale throughput, while
+emphasizing privacy-preserving design. Its goal is to improve the accuracy,
+reliability, and usability of biometric recognition in demanding
+border-management scenarios.&lt;/p&gt;
+&lt;p&gt;PopEye represents a current strand of work where biometric performance,
+privacy, and deployment realism must all be addressed together.&lt;/p&gt;</description></item></channel></rss>

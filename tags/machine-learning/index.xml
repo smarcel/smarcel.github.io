@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning | Professional website of Sébastien Marcel</title><link>https://smarcel.ch/tags/machine-learning/</link><atom:link href="https://smarcel.ch/tags/machine-learning/index.xml" rel="self" type="application/rss+xml"/><description>Machine Learning</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://smarcel.ch/media/icon_hu_903cac8985788c1d.png</url><title>Machine Learning</title><link>https://smarcel.ch/tags/machine-learning/</link></image><item><title>EPFL Fundamentals in Statistical Pattern Recognition</title><link>https://smarcel.ch/courses/02-doctoral-fspr-epfl/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://smarcel.ch/courses/02-doctoral-fspr-epfl/</guid><description>&lt;p&gt;Welcome to the webpage of the EPFL course EE-612 &amp;ldquo;Fundamentals in Statistical Pattern Recognition&amp;rdquo; (FSPR).&lt;/p&gt;
+&lt;p&gt;This was a course on fundamentals of Machine Learning from the Doctoral Program
+at Ecole Polytechnique Fédérale de Lausanne (EPFL)
+taught from 2013 to 2023 on the spring semester every 2 years.&lt;/p&gt;
+&lt;p&gt;This course was designed to serve as a pre-requisite for more advanced courses
+on Machine Learning already taught at EPFL. This course presents the
+functioning details of fundamental supervised and unsupervised models, ranging
+from regression and classification to probability distribution modeling. The
+learning outcome for students is to get an in-depth understanding of the most
+fundamental algorithms in statistical pattern recognition (aka machine
+learning) as well as concrete tools (as Python source code). Labs play a
+central role (hands-on) in the course with guided programming labs in Python
+for a deep understanding of algorithms.&lt;/p&gt;
+&lt;p&gt;The course became popular across various sections at EPFL as it provided basics
+in machine learning and deep learning. The practical approach to the topic and
+the hands-on labs were greatly appreciated.&lt;/p&gt;</description></item></channel></rss>

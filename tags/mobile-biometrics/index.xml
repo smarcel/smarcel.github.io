@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mobile Biometrics | Professional website of Sébastien Marcel</title><link>https://smarcel.ch/tags/mobile-biometrics/</link><atom:link href="https://smarcel.ch/tags/mobile-biometrics/index.xml" rel="self" type="application/rss+xml"/><description>Mobile Biometrics</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate><image><url>https://smarcel.ch/media/icon_hu_903cac8985788c1d.png</url><title>Mobile Biometrics</title><link>https://smarcel.ch/tags/mobile-biometrics/</link></image><item><title>MOBIO</title><link>https://smarcel.ch/project/former/mobio/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/mobio/</guid><description>&lt;p&gt;MOBIO focused on &lt;strong&gt;mobile biometrics&lt;/strong&gt; under realistic usage conditions,
+combining face and voice for authentication in noisy and unconstrained
+environments.&lt;/p&gt;
+&lt;p&gt;The project investigated robust face localisation, speech segmentation,
+video-based face authentication, speaker authentication, multimodal fusion, and
+unsupervised model adaptation over time. It also contributed a widely used
+multimodal database collected across multiple countries and sites, helping
+establish strong evaluation benchmarks for mobile biometric research.&lt;/p&gt;</description></item></channel></rss>

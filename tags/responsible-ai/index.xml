@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Responsible AI | Professional website of Sébastien Marcel</title><link>https://smarcel.ch/tags/responsible-ai/</link><atom:link href="https://smarcel.ch/tags/responsible-ai/index.xml" rel="self" type="application/rss+xml"/><description>Responsible AI</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://smarcel.ch/media/icon_hu_903cac8985788c1d.png</url><title>Responsible AI</title><link>https://smarcel.ch/tags/responsible-ai/</link></image><item><title>CERTAIN</title><link>https://smarcel.ch/project/active/certain/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/active/certain/</guid><description>&lt;p&gt;CERTAIN focuses on the &lt;strong&gt;ethical and regulatory transparency of AI systems&lt;/strong&gt;,
+with the goal of helping organizations assess and improve compliance in a
+practical and technically grounded way.&lt;/p&gt;
+&lt;p&gt;The project delivers guidelines and tools to support regulatory compliance,
+assess data quality, measure bias in datasets, and protect privacy. It aligns
+closely with broader work on trustworthy biometrics and responsible AI by
+combining technical evaluation with legal, ethical, and operational
+considerations.&lt;/p&gt;</description></item><item><title>SAFER</title><link>https://smarcel.ch/project/former/safer/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/safer/</guid><description>&lt;p&gt;SAFER addresses fairness and ethics in face recognition.&lt;/p&gt;
+&lt;p&gt;The project investigates how to assess and reduce unfair performance
+differences across demographic groups, with work spanning both training-time
+and scoring-time strategies. It also explores the role of synthetic and diverse
+datasets in improving the responsible development of face recognition systems.&lt;/p&gt;
+&lt;p&gt;SAFER reflects a broader commitment to trustworthy biometrics by combining
+technical performance with fairness, transparency, and responsible deployment.&lt;/p&gt;</description></item></channel></rss>

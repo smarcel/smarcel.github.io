@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biometrics | Professional website of Sébastien Marcel</title><link>https://smarcel.ch/tags/biometrics/</link><atom:link href="https://smarcel.ch/tags/biometrics/index.xml" rel="self" type="application/rss+xml"/><description>Biometrics</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://smarcel.ch/media/icon_hu_903cac8985788c1d.png</url><title>Biometrics</title><link>https://smarcel.ch/tags/biometrics/</link></image><item><title>UNIL Biometrics</title><link>https://smarcel.ch/courses/01-master-biometrics-unil/</link><pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate><guid>https://smarcel.ch/courses/01-master-biometrics-unil/</guid><description>&lt;p&gt;Welcome to the webpage of the Biometrics course at Université de Lausanne (UNIL).&lt;/p&gt;
+&lt;p&gt;This is a Master course on &amp;ldquo;Biometrics&amp;rdquo; at the University of Lausanne (Faculty
+of Law, Criminal Justice and Public Administration) in the Master of Science
+(MSc) &amp;ldquo;Forensic Science, orientation Physical Identification&amp;rdquo;, the Master of
+Science (MSc) &amp;ldquo;Forensic Science, orientation Chemical Criminalistic&amp;rdquo; and the
+Master of Science (MSc) &amp;ldquo;Forensic Science, orientation Digital Investigation
+and Identification&amp;rdquo; taught since 2018 every fall semester.&lt;/p&gt;
+&lt;p&gt;This course introduces to the analysis, modeling and
+interpretation of biometric data for biometric person recognition, forensic
+biometrics, cybersecurity and behavioral biometrics in man-machine
+communication.&lt;/p&gt;
+&lt;p&gt;The course covers topics like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;evaluation (including metrics),&lt;/li&gt;
+&lt;li&gt;face recognition,&lt;/li&gt;
+&lt;li&gt;speaker recognition,&lt;/li&gt;
+&lt;li&gt;fingerprint recognition,&lt;/li&gt;
+&lt;li&gt;vascular recognition,&lt;/li&gt;
+&lt;li&gt;iris recognition,&lt;/li&gt;
+&lt;li&gt;multibiometrics,&lt;/li&gt;
+&lt;li&gt;presentation attack detection,&lt;/li&gt;
+&lt;li&gt;biometric template protection.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Review of Demographic Fairness in Face Recognition</title><link>https://smarcel.ch/publications/2025/review-demographic-fairness-face-recognition_tbiom-2025/</link><pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/review-demographic-fairness-face-recognition_tbiom-2025/</guid><description/></item><item><title>BATL</title><link>https://smarcel.ch/project/former/batl/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/batl/</guid><description>&lt;p&gt;BATL contributed to biometric anti-spoofing research in the context of the
+&lt;strong&gt;IARPA ODIN program&lt;/strong&gt;, which aimed to strengthen biometric systems against
+known and unknown presentation attacks.&lt;/p&gt;
+&lt;p&gt;Within this line of work, research focused on robust face presentation-attack
+detection, anomaly detection, multi-channel sensing, and the creation of
+challenging datasets and protocols for evaluating spoof resilience. At Idiap,
+this effort is closely associated with work on multi-channel face anti-spoofing
+and datasets such as HQ-WMCA, supporting reproducible research on secure
+biometric acquisition.&lt;/p&gt;</description></item><item><title>BEAT</title><link>https://smarcel.ch/project/former/beat/</link><pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/beat/</guid><description>&lt;p&gt;BEAT (Biometrics Evaluation and Testing) was a European FP7 project focused on
+creating an open and reproducible framework for the evaluation of biometric
+technologies.&lt;/p&gt;
+&lt;p&gt;The project addressed three complementary goals: transparent benchmarking of
+biometric systems, vulnerability analysis, and support for standardized
+evaluation procedures. It contributed to reproducible research practices in
+biometrics and helped establish evaluation workflows that were both rigorous
+and operationally relevant.&lt;/p&gt;
+&lt;p&gt;This project also supported the broader vision of open platforms and tools for
+the community, connecting research, benchmarking, and technology assessment.&lt;/p&gt;</description></item><item><title>TABULA RASA</title><link>https://smarcel.ch/project/former/tabula-rasa/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/tabula-rasa/</guid><description>&lt;p&gt;TABULA RASA was a major European research project dedicated to understanding and mitigating spoofing attacks against biometric systems.&lt;/p&gt;
+&lt;p&gt;The project investigated the vulnerability of biometric modalities such as face and fingerprint to direct attacks and developed methods to detect and counter such threats. It played an important role in shaping the modern field of presentation-attack detection and helped establish anti-spoofing as a core topic in trustworthy biometrics.&lt;/p&gt;
+&lt;p&gt;This project remains a key milestone in the evolution of biometric security research and in the translation of anti-spoofing knowledge to practical evaluation settings.&lt;/p&gt;</description></item></channel></rss>

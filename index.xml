@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Professional website of Sébastien Marcel</title><link>https://smarcel.ch/</link><atom:link href="https://smarcel.ch/index.xml" rel="self" type="application/rss+xml"/><description>Professional website of Sébastien Marcel</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://smarcel.ch/media/icon_hu_903cac8985788c1d.png</url><title>Professional website of Sébastien Marcel</title><link>https://smarcel.ch/</link></image><item><title>Talk at ID4Africa 2026</title><link>https://smarcel.ch/events/id4africa-2026/</link><pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate><guid>https://smarcel.ch/events/id4africa-2026/</guid><description/></item><item><title>Benchmarking Multimodal Large Language Models for Face Recognition</title><link>https://smarcel.ch/publications/2025/facerecbench_icassp-2025/</link><pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/facerecbench_icassp-2025/</guid><description/></item><item><title>DEMO-AI</title><link>https://smarcel.ch/project/active/demoai/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/active/demoai/</guid><description>&lt;p&gt;Access to factual information is essential for democratic decision-making,
+public trust, and civic engagement, yet artificial intelligence (AI) enables
+large-scale creation and dissemination of manipulated content, fabricated
+narratives, and content amplification that can distort public perception, erode
+confidence in democratic institutions, and polarize political discourse. These
+risks threaten to reshape political debates, influence electoral outcomes, and
+undermine public trust in media sources in Switzerland. Democratic values can
+be upheld by developing AI tools and governance frameworks to counter
+disinformation and monitor media framing.&lt;/p&gt;
+&lt;p&gt;DEMO-AI is an interdisciplinary
+research project, driving advances in computing to enhance the resilience of
+democracy, integrating expertise from law, journalism and communication
+studies, media and information literacy to ensure that AI-supported solutions
+align with democratic values and regulations. Four project goals include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AI tools for analyzing news media framing;&lt;/li&gt;
+&lt;li&gt;AI tools for detecting manipulation of audio-visual media;&lt;/li&gt;
+&lt;li&gt;legal research on regulatory frameworks for AI and disinformation in Switzerland;&lt;/li&gt;
+&lt;li&gt;and engaging both the public and professionals in evaluating and testing media tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;DEMO-AI will produce tools to analyze issue framing and related narratives in
+Swiss media, facilitate the detection of audio-visual disinformation, and
+understand legal challenges. These tools will be designed, tested, and refined
+in collaboration with the general public and professionals, placing their
+specific needs at the center, thus ensuring real-world applicability. Through
+societal impact activities, the project extends beyond technology, addressing
+key challenges across AI, democracy, and policy.&lt;/p&gt;</description></item><item><title>INTERART</title><link>https://smarcel.ch/project/active/interart/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/active/interart/</guid><description>&lt;p&gt;The INTERART project brings together the Geneva&amp;rsquo;s Museum of art and history
+(MAH), the University of Oxford, the Idiap Research Institute, as well as the
+School of criminal justice of the University of Lausanne. Together, these
+institutions are collaborating to uncover the identities of subjects in the
+MAH&amp;rsquo;s historical portrait collection, many of whom remain unknown. Notably, the
+project investigates suspected portraits of Marie-Antoinette, Queen of France,
+and Marie-Caroline, Queen of Naples, by Jean-Étienne Liotard.&lt;/p&gt;
+&lt;p&gt;Heterogeneous face recognition is being used to uncover the
+identities of the sitters. This technology enables a face recognition system to
+compare faces in diverse media (coloured image, thermal image, drawing,
+painting). It opens new paths for interpretation and could enable us to reveal
+the identities of the individuals portrayed.&lt;/p&gt;
+&lt;p&gt;The project perfectly aligns with Idiap&amp;rsquo;s vision, demonstrating how artificial
+intelligence can serve society by unveiling new insights and enriching the
+disciplines it engages with. It also underscores the wide-ranging applications
+of AI and the Institute&amp;rsquo;s cutting-edge expertise.&lt;/p&gt;
+&lt;p&gt;Supported by the Loterie Romande, the project includes several phases, with an
+exhibition at the MAH in autumn 2026 and a publication.&lt;/p&gt;</description></item><item><title>From Face Recognition to Deception: 20 Years in Biometrics and Synthetic Media (ICCV 2025)</title><link>https://smarcel.ch/events/deception-synthetic-media-apai-2025/</link><pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/events/deception-synthetic-media-apai-2025/</guid><description/></item><item><title>ArtFace: Towards Historical Portrait Face Identification via Model Adaptation</title><link>https://smarcel.ch/publications/2025/artface_artmetricsaticcv-2025/</link><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/artface_artmetricsaticcv-2025/</guid><description/></item><item><title>Review of Demographic Fairness in Face Recognition</title><link>https://smarcel.ch/publications/2025/review-demographic-fairness-face-recognition_tbiom-2025/</link><pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/review-demographic-fairness-face-recognition_tbiom-2025/</guid><description/></item><item><title>From Face Recognition to Deception: 20 Years in Biometrics and Synthetic Media (IJCNN 2025)</title><link>https://smarcel.ch/events/deception-synthetic-media-verimedia-2025/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/events/deception-synthetic-media-verimedia-2025/</guid><description/></item><item><title>Foundation Models and Biometrics: A Survey and Outlook</title><link>https://smarcel.ch/publications/2025/foundation-models-biometrics-survey_tifs-2025/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/foundation-models-biometrics-survey_tifs-2025/</guid><description/></item><item><title>AugGen: Synthetic Augmentation using Diffusion Models Can Improve Recognition</title><link>https://smarcel.ch/publications/2025/auggen_neurips-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/auggen_neurips-2025/</guid><description/></item><item><title>CERTAIN</title><link>https://smarcel.ch/project/active/certain/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/active/certain/</guid><description>&lt;p&gt;CERTAIN focuses on the &lt;strong&gt;ethical and regulatory transparency of AI systems&lt;/strong&gt;,
+with the goal of helping organizations assess and improve compliance in a
+practical and technically grounded way.&lt;/p&gt;
+&lt;p&gt;The project delivers guidelines and tools to support regulatory compliance,
+assess data quality, measure bias in datasets, and protect privacy. It aligns
+closely with broader work on trustworthy biometrics and responsible AI by
+combining technical evaluation with legal, ethical, and operational
+considerations.&lt;/p&gt;</description></item><item><title>DeepID Challenge of Detecting Synthetic Manipulations in ID Documents</title><link>https://smarcel.ch/publications/2025/deepid_iccv-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/deepid_iccv-2025/</guid><description/></item><item><title>Detecting Text Manipulation in Images using Vision Language Models</title><link>https://smarcel.ch/publications/2025/detecting-text-manipulation_bmvc-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/detecting-text-manipulation_bmvc-2025/</guid><description/></item><item><title>Digi2Real: Bridging the Realism Gap in Synthetic Data Face Recognition via Foundation Models</title><link>https://smarcel.ch/publications/2025/digi2real_wacv-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/digi2real_wacv-2025/</guid><description/></item><item><title>EdgeDoc: Hybrid CNN-Transformer Model for Accurate Forgery Detection and Localization in ID Documents</title><link>https://smarcel.ch/publications/2025/edgedoc_iccv-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/edgedoc_iccv-2025/</guid><description/></item><item><title>Exploring ChatGPT for Face Presentation Attack Detection in Zero and Few-Shot In-Context Learning</title><link>https://smarcel.ch/publications/2025/chatgpt4pad_wacv-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/chatgpt4pad_wacv-2025/</guid><description/></item><item><title>FantasyID: A dataset for detecting digital manipulations of ID-documents</title><link>https://smarcel.ch/publications/2025/fantasyid_ijcb-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/fantasyid_ijcb-2025/</guid><description/></item><item><title>HintsOfTruth: A Multimodal Checkworthiness Detection Dataset with Real and Synthetic Claims</title><link>https://smarcel.ch/publications/2025/hintsoftruth_acl-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/hintsoftruth_acl-2025/</guid><description/></item><item><title>HyperFace: Generating Synthetic Face Recognition Datasets by Exploring Face Embedding Hypersphere</title><link>https://smarcel.ch/publications/2025/hyperface_iclr-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/hyperface_iclr-2025/</guid><description/></item><item><title>Investigation of accuracy and bias in face recognition trained with synthetic data</title><link>https://smarcel.ch/publications/2025/bias-fr-syndata_ijcb-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/bias-fr-syndata_ijcb-2025/</guid><description/></item><item><title>Synthetic Face Datasets Generation via Latent Space Exploration from Brownian Identity Diffusion</title><link>https://smarcel.ch/publications/2025/synface_icml-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/synface_icml-2025/</guid><description/></item><item><title>The Invisible Threat: Evaluating the Vulnerability of Cross-Spectral Face Recognition to Presentation Attacks</title><link>https://smarcel.ch/publications/2025/the-invisible-threat_ijcb-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/the-invisible-threat_ijcb-2025/</guid><description/></item><item><title>xEdgeFace: Efficient Cross-Spectral Face Recognition for Edge Devices</title><link>https://smarcel.ch/publications/2025/xedgeface_ijcb-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2025/xedgeface_ijcb-2025/</guid><description/></item><item><title>An overview of 20 years of research in biometrics and recent work (EPFL)</title><link>https://smarcel.ch/events/overview-biometrics-iem-2024/</link><pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/events/overview-biometrics-iem-2024/</guid><description/></item><item><title>ROSALIND</title><link>https://smarcel.ch/project/former/rosalind/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/rosalind/</guid><description>&lt;p&gt;ROSALIND focuses on defending digital identity systems against malicious
+AI-generated face images and manipulated identity documents.&lt;/p&gt;
+&lt;p&gt;The project combines two complementary goals: developing robust anti-fraud
+defenses for document images and selfie-videos, and using generative AI to
+improve the robustness and balance of authentication algorithms. It sits at the
+intersection of biometric security, digital identity, and applied trustworthy
+AI.&lt;/p&gt;
+&lt;p&gt;ROSALIND is a strong example of translational biometrics research with direct
+relevance to real-world identity verification.&lt;/p&gt;</description></item><item><title>CARMEN</title><link>https://smarcel.ch/project/active/carmen/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/active/carmen/</guid><description>&lt;p&gt;CARMEN develops biometric solutions for &lt;strong&gt;non-stop border control&lt;/strong&gt; for both
+pedestrians and vehicles in uncontrolled environments.&lt;/p&gt;
+&lt;p&gt;The project addresses the practical difficulties of &amp;ldquo;on-the-move&amp;rdquo; biometrics,
+including lower-quality live data, lack of time to read ePassports, and real
+operational constraints outside controlled indoor checkpoints. It aims to make
+biometric border technologies more accurate, reliable, and deployable in
+realistic large-scale scenarios.&lt;/p&gt;</description></item><item><title>EdgeFace: Efficient Face Recognition Model for Edge Devices</title><link>https://smarcel.ch/publications/2024/edgeface_tbiom-2024/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2024/edgeface_tbiom-2024/</guid><description/></item><item><title>Example Talk: Recent Work</title><link>https://smarcel.ch/slides/example/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/slides/example/</guid><description>&lt;!-- no-branding --&gt;
+&lt;h1 id="example-talk"&gt;Example Talk&lt;/h1&gt;
+&lt;h3 id="dr-alex-johnson--meta-ai"&gt;Dr. Alex Johnson · Meta AI&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id="research-overview"&gt;Research Overview&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Multimodal LLMs&lt;/li&gt;
+&lt;li&gt;Efficient training&lt;/li&gt;
+&lt;li&gt;Responsible AI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="code--math"&gt;Code &amp;amp; Math&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;score&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="nb"&gt;int&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; &lt;span class="nb"&gt;int&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;$$
+E = mc^2
+$$&lt;hr&gt;
+&lt;h2 id="dual-column-layout"&gt;Dual Column Layout&lt;/h2&gt;
+&lt;div class="r-hstack"&gt;
+&lt;div style="flex: 1; padding-right: 1rem;"&gt;
+&lt;h3 id="left-column"&gt;Left Column&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Point A&lt;/li&gt;
+&lt;li&gt;Point B&lt;/li&gt;
+&lt;li&gt;Point C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div style="flex: 1; padding-left: 1rem;"&gt;
+&lt;h3 id="right-column"&gt;Right Column&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Detail 1&lt;/li&gt;
+&lt;li&gt;Detail 2&lt;/li&gt;
+&lt;li&gt;Detail 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;!-- Alternative: Asymmetric columns --&gt;
+&lt;div style="display: flex; gap: 2rem;"&gt;
+&lt;div style="flex: 2;"&gt;
+&lt;h3 id="main-content-23-width"&gt;Main Content (2/3 width)&lt;/h3&gt;
+&lt;p&gt;This column takes up twice the space of the right column.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;example&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;code works too&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div style="flex: 1;"&gt;
+&lt;h3 id="sidebar-13-width"&gt;Sidebar (1/3 width)&lt;/h3&gt;
+&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;br&gt;
+Key points in smaller column&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="image--text-layout"&gt;Image + Text Layout&lt;/h2&gt;
+&lt;div class="r-hstack" style="align-items: center;"&gt;
+&lt;div style="flex: 1;"&gt;
+&lt;p&gt;
+&lt;figure &gt;
+&lt;div class="flex justify-center "&gt;
+&lt;div class="w-full" &gt;&lt;img src="https://images.unsplash.com/photo-1708011271954-c0d2b3155ded?w=400&amp;amp;dpr=2&amp;amp;h=400&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;q=60&amp;amp;ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTh8fG1hdGhlbWF0aWNzfGVufDB8fHx8MTc2NTYzNTEzMHww&amp;amp;ixlib=rb-4.1.0" alt="" loading="lazy" data-zoomable /&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="flex: 1; padding-left: 2rem;"&gt;
+&lt;h3 id="results"&gt;Results&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;95% accuracy&lt;/li&gt;
+&lt;li&gt;10x faster inference&lt;/li&gt;
+&lt;li&gt;Lower memory usage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="fragment " &gt;
+&lt;strong&gt;Breakthrough!&lt;/strong&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="speaker-notes"&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Press &lt;strong&gt;S&lt;/strong&gt; to open presenter view with notes!&lt;/p&gt;
+&lt;p&gt;This slide has hidden speaker notes below.&lt;/p&gt;
+&lt;p&gt;Note:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is a &lt;strong&gt;speaker note&lt;/strong&gt; (only visible in presenter view)&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to open presenter console&lt;/li&gt;
+&lt;li&gt;Perfect for remembering key talking points&lt;/li&gt;
+&lt;li&gt;Can include reminders, timing, references&lt;/li&gt;
+&lt;li&gt;Supports &lt;strong&gt;Markdown&lt;/strong&gt; formatting too!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="progressive-reveals"&gt;Progressive Reveals&lt;/h2&gt;
+&lt;p&gt;Content appears step-by-step:&lt;/p&gt;
+&lt;span class="fragment " &gt;
+First point appears
+&lt;/span&gt;
+&lt;span class="fragment " &gt;
+Then the second point
+&lt;/span&gt;
+&lt;span class="fragment " &gt;
+Finally the conclusion
+&lt;/span&gt;
+&lt;span class="fragment highlight-red" &gt;
+This one can be &lt;strong&gt;highlighted&lt;/strong&gt;!
+&lt;/span&gt;
+&lt;p&gt;Note:
+Use fragments to control pacing and maintain audience attention. Each fragment appears on click.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="diagrams-with-mermaid"&gt;Diagrams with Mermaid&lt;/h2&gt;
+&lt;div class="mermaid"&gt;graph LR
+A[Research Question] --&gt; B{Hypothesis}
+B --&gt;|Valid| C[Experiment]
+B --&gt;|Invalid| D[Revise]
+C --&gt; E[Analyze Data]
+E --&gt; F{Significant?}
+F --&gt;|Yes| G[Publish]
+F --&gt;|No| D
+&lt;/div&gt;
+&lt;p&gt;Perfect for: Workflows, architectures, processes&lt;/p&gt;
+&lt;p&gt;Note:
+Mermaid diagrams are created from simple text. They&amp;rsquo;re version-controllable and edit anywhere!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="research-results"&gt;Research Results&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;
+&lt;th&gt;Accuracy&lt;/th&gt;
+&lt;th&gt;Speed&lt;/th&gt;
+&lt;th&gt;Memory&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Baseline&lt;/td&gt;
+&lt;td&gt;87.3%&lt;/td&gt;
+&lt;td&gt;1.0x&lt;/td&gt;
+&lt;td&gt;2GB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ours (v1)&lt;/td&gt;
+&lt;td&gt;92.1%&lt;/td&gt;
+&lt;td&gt;1.5x&lt;/td&gt;
+&lt;td&gt;1.8GB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Ours (v2)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;95.8%&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;2.3x&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1.2GB&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
+&lt;p&gt;&lt;strong&gt;Key Finding:&lt;/strong&gt; 8.5% improvement over baseline with 40% memory reduction&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Note:
+Tables are perfect for comparative results. Markdown tables are simple and version-control friendly.&lt;/p&gt;
+&lt;hr&gt;
+&lt;section data-noprocess data-shortcode-slide
+data-background-color="#1e3a8a"
+&gt;
+&lt;h2 id="custom-backgrounds"&gt;Custom Backgrounds&lt;/h2&gt;
+&lt;p&gt;This slide has a &lt;strong&gt;blue background&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;You can customize:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Background colors&lt;/li&gt;
+&lt;li&gt;Background images&lt;/li&gt;
+&lt;li&gt;Gradients&lt;/li&gt;
+&lt;li&gt;Videos (yes, really!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Use &lt;code&gt;{{&amp;lt; slide background-color=&amp;quot;#hex&amp;quot; &amp;gt;}}&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="vertical-navigation"&gt;Vertical Navigation&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;There&amp;rsquo;s more content below! ⬇️&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Press the &lt;strong&gt;Down Arrow&lt;/strong&gt; to see substeps.&lt;/p&gt;
+&lt;p&gt;Note:
+This demonstrates Reveal.js&amp;rsquo;s vertical slide feature. Great for optional details or deep dives.&lt;/p&gt;
+&lt;hr&gt;
+&lt;section data-noprocess data-shortcode-slide
+id="substep-1"
+&gt;
+&lt;h3 id="substep-1-details"&gt;Substep 1: Details&lt;/h3&gt;
+&lt;p&gt;This is additional content in a vertical stack.&lt;/p&gt;
+&lt;p&gt;Navigate down for more, or right to skip to next topic →&lt;/p&gt;
+&lt;hr&gt;
+&lt;section data-noprocess data-shortcode-slide
+id="substep-2"
+&gt;
+&lt;h3 id="substep-2-more-details"&gt;Substep 2: More Details&lt;/h3&gt;
+&lt;p&gt;Even more detailed information.&lt;/p&gt;
+&lt;p&gt;Press &lt;strong&gt;Up Arrow&lt;/strong&gt; to go back, or &lt;strong&gt;Right Arrow&lt;/strong&gt; to continue.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="citations--quotes"&gt;Citations &amp;amp; Quotes&lt;/h2&gt;
+&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
+&lt;p&gt;&amp;ldquo;The best way to predict the future is to invent it.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;— Alan Kay&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Or reference research:&lt;/p&gt;
+&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
+&lt;p&gt;Recent work by Smith et al. (2024) demonstrates that Markdown-based slides improve reproducibility by 78% compared to proprietary formats&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id="media-youtube-videos"&gt;Media: YouTube Videos&lt;/h2&gt;
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;Note:
+Embed YouTube videos with just the video ID. Perfect for demos, tutorials, or interviews.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="media-all-options"&gt;Media: All Options&lt;/h2&gt;
+&lt;p&gt;Embed various media types with simple shortcodes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;YouTube&lt;/strong&gt;: &lt;code&gt;{{&amp;lt; youtube VIDEO_ID &amp;gt;}}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;: &lt;code&gt;{{&amp;lt; bilibili id=&amp;quot;BV1...&amp;quot; &amp;gt;}}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Local videos&lt;/strong&gt;: &lt;code&gt;{{&amp;lt; video src=&amp;quot;file.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Audio&lt;/strong&gt;: &lt;code&gt;{{&amp;lt; audio src=&amp;quot;file.mp3&amp;quot; &amp;gt;}}&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Perfect for demos, interviews, tutorials, or podcasts!&lt;/p&gt;
+&lt;p&gt;Note:
+All media types work seamlessly in slides. Just use the appropriate shortcode.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="interactive-elements"&gt;Interactive Elements&lt;/h2&gt;
+&lt;p&gt;Try these keyboard shortcuts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;→&lt;/code&gt; &lt;code&gt;←&lt;/code&gt; : Navigate slides&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;↓&lt;/code&gt; &lt;code&gt;↑&lt;/code&gt; : Vertical navigation&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;S&lt;/code&gt; : Speaker notes&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;F&lt;/code&gt; : Fullscreen&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;O&lt;/code&gt; : Overview mode&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;/&lt;/code&gt; : Search&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ESC&lt;/code&gt; : Exit modes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;!-- hide --&gt;
+&lt;h2 id="hidden-slide-demo-inline-comment"&gt;Hidden Slide Demo (Inline Comment)&lt;/h2&gt;
+&lt;p&gt;This slide is hidden using the &lt;code&gt;&amp;lt;!-- hide --&amp;gt;&lt;/code&gt; comment method.&lt;/p&gt;
+&lt;p&gt;Perfect for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Speaker-only content&lt;/li&gt;
+&lt;li&gt;Backup slides&lt;/li&gt;
+&lt;li&gt;Work-in-progress content&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note:
+This slide won&amp;rsquo;t appear in the presentation but remains in source for reference.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="thanks"&gt;Thanks&lt;/h2&gt;
+&lt;h3 id="questions"&gt;Questions?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🌐 Website:
+&lt;/li&gt;
+&lt;li&gt;🐦 X/Twitter:
+&lt;/li&gt;
+&lt;li&gt;💬 Discord:
+&lt;/li&gt;
+&lt;li&gt;⭐ GitHub:
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;All slides created with Markdown&lt;/strong&gt; • No vendor lock-in • Edit anywhere&lt;/p&gt;
+&lt;p&gt;Note:
+Thank you for your attention! Feel free to reach out with questions or contributions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-branding-your-slides"&gt;🎨 Branding Your Slides&lt;/h2&gt;
+&lt;p&gt;Add your identity to every slide with simple configuration!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you can add:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Element&lt;/th&gt;
+&lt;th&gt;Position Options&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Logo&lt;/td&gt;
+&lt;td&gt;top-left, top-right, bottom-left, bottom-right&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Title&lt;/td&gt;
+&lt;td&gt;Same as above&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Author&lt;/td&gt;
+&lt;td&gt;Same as above&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Footer Text&lt;/td&gt;
+&lt;td&gt;Same + bottom-center&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Edit the &lt;code&gt;branding:&lt;/code&gt; section in your slide&amp;rsquo;s front matter (top of file).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-adding-your-logo"&gt;📁 Adding Your Logo&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Place your logo in &lt;code&gt;assets/media/&lt;/code&gt; folder&lt;/li&gt;
+&lt;li&gt;Use SVG format for best results (auto-adapts to any theme!)&lt;/li&gt;
+&lt;li&gt;Add to front matter:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;branding&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;logo&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;filename&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;your-logo.svg&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c"&gt;# Must be in assets/media/&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;position&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;top-right&amp;#34;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;60px&amp;#34;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; SVGs with &lt;code&gt;fill=&amp;quot;currentColor&amp;quot;&lt;/code&gt; automatically match theme colors!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-title--author-overlays"&gt;📝 Title &amp;amp; Author Overlays&lt;/h2&gt;
+&lt;p&gt;Show presentation title and/or author on every slide:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;branding&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;show&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;position&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;bottom-left&amp;#34;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;text&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;Short Title&amp;#34;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c"&gt;# Optional: override long page title&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;author&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;show&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;position&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;bottom-right&amp;#34;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Author is auto-detected from page front matter (&lt;code&gt;author:&lt;/code&gt; or &lt;code&gt;authors:&lt;/code&gt;).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-footer-text"&gt;📄 Footer Text&lt;/h2&gt;
+&lt;p&gt;Add copyright, conference name, or any persistent text:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;branding&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;footer&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;text&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;© 2024 Your Name · ICML 2024&amp;#34;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;position&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;bottom-center&amp;#34;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Supports Markdown! Use &lt;code&gt;[Link](url)&lt;/code&gt; for clickable links.&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- no-branding --&gt;
+&lt;h2 id="-hiding-branding-per-slide"&gt;🔇 Hiding Branding Per-Slide&lt;/h2&gt;
+&lt;p&gt;Sometimes you want a clean slide (title slides, full-screen images).&lt;/p&gt;
+&lt;p&gt;Add this comment at the &lt;strong&gt;start&lt;/strong&gt; of your slide content:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;lt;!-- no-branding --&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="gu"&gt;## My Clean Slide
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Content here...
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;☝️ &lt;strong&gt;This slide uses &lt;code&gt;&amp;lt;!-- no-branding --&amp;gt;&lt;/code&gt;&lt;/strong&gt; — notice no logo or overlays!&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- no-header --&gt;
+&lt;h2 id="-selective-hiding"&gt;🔇 Selective Hiding&lt;/h2&gt;
+&lt;p&gt;Hide just the header (logo + title):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;lt;!-- no-header --&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or just the footer (author + footer text):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;lt;!-- no-footer --&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;☝️ &lt;strong&gt;This slide uses &lt;code&gt;&amp;lt;!-- no-header --&amp;gt;&lt;/code&gt;&lt;/strong&gt; — footer still visible below!&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- no-footer --&gt;
+&lt;h2 id="-quick-reference"&gt;✅ Quick Reference&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Comment&lt;/th&gt;
+&lt;th&gt;Hides&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;!-- no-branding --&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Everything (logo, title, author, footer)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;!-- no-header --&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Logo + Title overlay&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;&amp;lt;!-- no-footer --&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Author + Footer text&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;☝️ &lt;strong&gt;This slide uses &lt;code&gt;&amp;lt;!-- no-footer --&amp;gt;&lt;/code&gt;&lt;/strong&gt; — logo still visible above!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-get-started"&gt;🚀 Get Started&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Copy this example&amp;rsquo;s front matter as a starting point&lt;/li&gt;
+&lt;li&gt;Replace logo with yours in &lt;code&gt;assets/media/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Customize positions and text&lt;/li&gt;
+&lt;li&gt;Use &lt;code&gt;&amp;lt;!-- no-branding --&amp;gt;&lt;/code&gt; for special slides&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Pro tip:&lt;/strong&gt; Set site-wide defaults in &lt;code&gt;config/_default/params.yaml&lt;/code&gt; under &lt;code&gt;slides.branding&lt;/code&gt;!&lt;/p&gt;
+&lt;div class="footnotes" role="doc-endnotes"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;Smith, J. et al. (2024). &lt;em&gt;Open Science Presentations&lt;/em&gt;. Nature Methods.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink"&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description></item><item><title>From Modalities to Styles: Rethinking the Domain Gap in Heterogeneous Face Recognition</title><link>https://smarcel.ch/publications/2024/modstyleshfr_tbiom-2024/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2024/modstyleshfr_tbiom-2024/</guid><description/></item><item><title>Knowledge Distillation for Face Recognition using Synthetic Data with Dynamic Latent Sampling</title><link>https://smarcel.ch/publications/2024/kt4fr-syndata_ieee-access-2024/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2024/kt4fr-syndata_ieee-access-2024/</guid><description/></item><item><title>PopEye</title><link>https://smarcel.ch/project/active/popeye/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/active/popeye/</guid><description>&lt;p&gt;PopEye develops robust privacy-preserving biometric technologies for passenger
+identification and verification at EU external borders.&lt;/p&gt;
+&lt;p&gt;The project addresses operational constraints such as open-air conditions,
+night-time acquisition, time pressure, and large-scale throughput, while
+emphasizing privacy-preserving design. Its goal is to improve the accuracy,
+reliability, and usability of biometric recognition in demanding
+border-management scenarios.&lt;/p&gt;
+&lt;p&gt;PopEye represents a current strand of work where biometric performance,
+privacy, and deployment realism must all be addressed together.&lt;/p&gt;</description></item><item><title>Template Inversion Attack Using Synthetic Face Images Against Real Face Recognition Systems</title><link>https://smarcel.ch/publications/2024/ti-fr-synface_tbiom-2024/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2024/ti-fr-synface_tbiom-2024/</guid><description/></item><item><title>Vulnerability of State-of-the-Art Face Recognition Models to Template Inversion Attack</title><link>https://smarcel.ch/publications/2024/ti-fr_tifs-2024/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/publications/2024/ti-fr_tifs-2024/</guid><description/></item><item><title>Biometrics Security</title><link>https://smarcel.ch/events/biometrics-security-lux-2023/</link><pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate><guid>https://smarcel.ch/events/biometrics-security-lux-2023/</guid><description/></item><item><title>Experience</title><link>https://smarcel.ch/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://smarcel.ch/experience/</guid><description/></item><item><title>Face Presentation Attack Detection (EPFL)</title><link>https://smarcel.ch/events/face-pad-cis-2023/</link><pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate><guid>https://smarcel.ch/events/face-pad-cis-2023/</guid><description/></item><item><title>Spoofing and Anti-Spoofing in Biometrics</title><link>https://smarcel.ch/events/spoofing-anti-spoofing-ieeebc-2022/</link><pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate><guid>https://smarcel.ch/events/spoofing-anti-spoofing-ieeebc-2022/</guid><description/></item><item><title>Spoofing and Anti-Spoofing in Biometrics</title><link>https://smarcel.ch/events/spoofing-anti-spoofing-ccbr-2022/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://smarcel.ch/events/spoofing-anti-spoofing-ccbr-2022/</guid><description/></item><item><title>SAFER</title><link>https://smarcel.ch/project/former/safer/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/safer/</guid><description>&lt;p&gt;SAFER addresses fairness and ethics in face recognition.&lt;/p&gt;
+&lt;p&gt;The project investigates how to assess and reduce unfair performance
+differences across demographic groups, with work spanning both training-time
+and scoring-time strategies. It also explores the role of synthetic and diverse
+datasets in improving the responsible development of face recognition systems.&lt;/p&gt;
+&lt;p&gt;SAFER reflects a broader commitment to trustworthy biometrics by combining
+technical performance with fairness, transparency, and responsible deployment.&lt;/p&gt;</description></item><item><title>BATL</title><link>https://smarcel.ch/project/former/batl/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/batl/</guid><description>&lt;p&gt;BATL contributed to biometric anti-spoofing research in the context of the
+&lt;strong&gt;IARPA ODIN program&lt;/strong&gt;, which aimed to strengthen biometric systems against
+known and unknown presentation attacks.&lt;/p&gt;
+&lt;p&gt;Within this line of work, research focused on robust face presentation-attack
+detection, anomaly detection, multi-channel sensing, and the creation of
+challenging datasets and protocols for evaluating spoof resilience. At Idiap,
+this effort is closely associated with work on multi-channel face anti-spoofing
+and datasets such as HQ-WMCA, supporting reproducible research on secure
+biometric acquisition.&lt;/p&gt;</description></item><item><title>BEAT</title><link>https://smarcel.ch/project/former/beat/</link><pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/beat/</guid><description>&lt;p&gt;BEAT (Biometrics Evaluation and Testing) was a European FP7 project focused on
+creating an open and reproducible framework for the evaluation of biometric
+technologies.&lt;/p&gt;
+&lt;p&gt;The project addressed three complementary goals: transparent benchmarking of
+biometric systems, vulnerability analysis, and support for standardized
+evaluation procedures. It contributed to reproducible research practices in
+biometrics and helped establish evaluation workflows that were both rigorous
+and operationally relevant.&lt;/p&gt;
+&lt;p&gt;This project also supported the broader vision of open platforms and tools for
+the community, connecting research, benchmarking, and technology assessment.&lt;/p&gt;</description></item><item><title>TABULA RASA</title><link>https://smarcel.ch/project/former/tabula-rasa/</link><pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/tabula-rasa/</guid><description>&lt;p&gt;TABULA RASA was a major European research project dedicated to understanding and mitigating spoofing attacks against biometric systems.&lt;/p&gt;
+&lt;p&gt;The project investigated the vulnerability of biometric modalities such as face and fingerprint to direct attacks and developed methods to detect and counter such threats. It played an important role in shaping the modern field of presentation-attack detection and helped establish anti-spoofing as a core topic in trustworthy biometrics.&lt;/p&gt;
+&lt;p&gt;This project remains a key milestone in the evolution of biometric security research and in the translation of anti-spoofing knowledge to practical evaluation settings.&lt;/p&gt;</description></item><item><title>MOBIO</title><link>https://smarcel.ch/project/former/mobio/</link><pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/mobio/</guid><description>&lt;p&gt;MOBIO focused on &lt;strong&gt;mobile biometrics&lt;/strong&gt; under realistic usage conditions,
+combining face and voice for authentication in noisy and unconstrained
+environments.&lt;/p&gt;
+&lt;p&gt;The project investigated robust face localisation, speech segmentation,
+video-based face authentication, speaker authentication, multimodal fusion, and
+unsupervised model adaptation over time. It also contributed a widely used
+multimodal database collected across multiple countries and sites, helping
+establish strong evaluation benchmarks for mobile biometric research.&lt;/p&gt;</description></item></channel></rss>
