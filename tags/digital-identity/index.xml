@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Digital Identity | Professional website of Sébastien Marcel</title><link>https://smarcel.ch/tags/digital-identity/</link><atom:link href="https://smarcel.ch/tags/digital-identity/index.xml" rel="self" type="application/rss+xml"/><description>Digital Identity</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://smarcel.ch/media/icon_hu_903cac8985788c1d.png</url><title>Digital Identity</title><link>https://smarcel.ch/tags/digital-identity/</link></image><item><title>ROSALIND</title><link>https://smarcel.ch/project/former/rosalind/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://smarcel.ch/project/former/rosalind/</guid><description>&lt;p&gt;ROSALIND focuses on defending digital identity systems against malicious
-AI-generated face images and manipulated identity documents.&lt;/p&gt;
-&lt;p&gt;The project combines two complementary goals: developing robust anti-fraud
-defenses for document images and selfie-videos, and using generative AI to
-improve the robustness and balance of authentication algorithms. It sits at the
-intersection of biometric security, digital identity, and applied trustworthy
-AI.&lt;/p&gt;
-&lt;p&gt;ROSALIND is a strong example of translational biometrics research with direct
-relevance to real-world identity verification.&lt;/p&gt;</description></item></channel></rss>
